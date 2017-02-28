@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="sitemap.xsl"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>http://localhost:4000</loc>
+        <changefreq>daily</changefreq>
+        <priority>1</priority>
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/hello-world/</loc>
+        <lastmod>2017-02-28T03:12:38.029Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/vulnerabilidades-parrot/</loc>
+        <lastmod>2017-02-27T17:45:15.963Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/visitar-feira-geotecnologias/</loc>
+        <lastmod>2017-02-27T17:37:31.932Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/travessia-imigrantes-turquia-grecia/</loc>
+        <lastmod>2017-02-27T17:32:27.323Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/toquio-proibe-voos/</loc>
+        <lastmod>2017-02-27T17:29:00.181Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/tocha-olimpica-restricoes-drones/</loc>
+        <lastmod>2017-02-27T17:27:04.915Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/sony-mercado-drones/</loc>
+        <lastmod>2017-02-27T17:25:01.168Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/samsung-projeto-envolvendo-drones/</loc>
+        <lastmod>2017-02-27T17:23:13.430Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/russia-drones-no-artico/</loc>
+        <lastmod>2017-02-27T17:20:10.005Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/resgate-entre-drones/</loc>
+        <lastmod>2017-02-27T17:17:44.584Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/radio-mix-fm-sorteara-drones/</loc>
+        <lastmod>2017-02-27T17:15:27.692Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/projeto-lei-restringe-drones-brasil/</loc>
+        <lastmod>2017-02-27T17:13:16.148Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/ponte-futuro-construcao-civil/</loc>
+        <lastmod>2017-02-27T17:10:54.285Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/o-dronalismo/</loc>
+        <lastmod>2017-02-27T17:03:53.089Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/nova-ferramenta-de-trabalho/</loc>
+        <lastmod>2017-02-27T16:52:17.520Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/mulheres-e-drones/</loc>
+        <lastmod>2017-02-27T16:50:51.092Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/minas-14-milhoes-em-drones/</loc>
+        <lastmod>2017-02-27T16:39:00.576Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/militares-nao-estao-preparados-drones/</loc>
+        <lastmod>2017-02-27T16:37:46.886Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/menor-drone-do-mundo/</loc>
+        <lastmod>2017-02-27T16:36:21.700Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/melhores-modelos-iniciantes/</loc>
+        <lastmod>2017-02-27T16:33:03.532Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/measure-seu-enxame-aprovados/</loc>
+        <lastmod>2017-02-27T15:37:44.803Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/lily-drone-perfeito/</loc>
+        <lastmod>2017-02-27T15:01:53.569Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/invisiveis-americanos/</loc>
+        <lastmod>2017-02-27T15:00:00.765Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/invasao-de-privacidade-praia-nudista/</loc>
+        <lastmod>2017-02-27T14:57:36.891Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/incendios-combatidos-drones/</loc>
+        <lastmod>2017-02-27T14:56:23.667Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/holografia-3d-paraquedas/</loc>
+        <lastmod>2017-02-27T14:55:16.947Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/historia-dos-drones/</loc>
+        <lastmod>2017-02-27T14:52:12.292Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/guia-para-comprar-drone/</loc>
+        <lastmod>2017-02-27T14:15:22.308Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/google-controlar-trafego/</loc>
+        <lastmod>2017-02-27T13:57:10.309Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/futebol-gracas-ao-drone/</loc>
+        <lastmod>2017-02-27T13:52:04.018Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/festa-de-agosto-sao-roque/</loc>
+        <lastmod>2017-02-27T13:47:06.103Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/fantasma-sobrevoa-jogo/</loc>
+        <lastmod>2017-02-27T13:18:34.973Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/entrevista-dymm/</loc>
+        <lastmod>2017-02-27T13:16:06.731Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/entrega-drones-brasil-opinando/</loc>
+        <lastmod>2017-02-27T13:07:18.721Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/dymm-empreendedorismo-drones/</loc>
+        <lastmod>2017-02-27T13:00:40.175Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/dronestagram-uma-nova-visao/</loc>
+        <lastmod>2017-02-27T05:48:45.019Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/drones-resgate-mediterraneo/</loc>
+        <lastmod>2017-02-27T05:43:17.626Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/drones-maritimos/</loc>
+        <lastmod>2017-02-27T05:40:12.166Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/drones-estao-rodando-na-asia/</loc>
+        <lastmod>2017-02-27T05:35:08.792Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/drones-especiais-star-wars-day/</loc>
+        <lastmod>2017-02-27T04:22:14.793Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/drones-em-que-pe-estamos/</loc>
+        <lastmod>2017-02-27T03:54:11.832Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/drones-e-pimenta/</loc>
+        <lastmod>2017-02-27T03:43:28.495Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/drones-carteiros/</loc>
+        <lastmod>2017-02-27T03:39:33.260Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/drone-vandaliza-outdoor/</loc>
+        <lastmod>2017-02-27T03:32:35.648Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/drone-pousa-na-agua/</loc>
+        <lastmod>2017-02-27T03:27:13.779Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/drone-planta-arvores/</loc>
+        <lastmod>2017-02-27T03:18:45.864Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/drone-legal/</loc>
+        <lastmod>2017-02-27T03:15:50.981Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/drone-investiga-floresta-amazonica/</loc>
+        <lastmod>2017-02-27T03:06:44.609Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/drone-interceptar-outros/</loc>
+        <lastmod>2017-02-27T02:53:00.487Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/drone-hibrido-criado-pela-nasa/</loc>
+        <lastmod>2017-02-27T02:29:23.842Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/drone-europeu-voando/</loc>
+        <lastmod>2017-02-27T02:25:19.052Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/dicas-sobre-utilizacao-drones/</loc>
+        <lastmod>2017-02-27T02:22:49.859Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/dengue-novo-inimigo-drones/</loc>
+        <lastmod>2017-02-27T02:20:58.262Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/danca-com-drones-quem-sabe-um-futuro-filme/</loc>
+        <lastmod>2017-02-27T02:14:11.231Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/casamentos-contam-com-drones/</loc>
+        <lastmod>2017-02-27T01:26:13.420Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/casa-branca-fechada-drone/</loc>
+        <lastmod>2017-02-27T01:23:47.050Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/area-sem-drones-em-washington-dc/</loc>
+        <lastmod>2017-02-27T01:22:17.335Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/arco-metropolitano-monitorado-por-drones/</loc>
+        <lastmod>2017-02-27T01:18:35.771Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/amazon-patente-drone-seguidor/</loc>
+        <lastmod>2017-02-27T01:15:27.693Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/algoritmos-criando-atletas/</loc>
+        <lastmod>2017-02-27T01:14:15.248Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+</urlset>
+<!-- XML Sitemap generated by Hexo SEO Friendly Sitemap Generator -->
