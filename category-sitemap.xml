@@ -1,41 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://odrones.github.io</loc>
+        <loc>https://blog.odrones.com.br</loc>
         <changefreq>daily</changefreq>
         <priority>1</priority>
     </url>
 
     <url>
-        <loc>https://odrones.github.io/categories/Entrevistas/</loc>
+        <loc>https://blog.odrones.com.br/categories/Entrevistas/</loc>
         <lastmod>2017-02-27T16:50:51.092Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://odrones.github.io/categories/Dronalismo/</loc>
+        <loc>https://blog.odrones.com.br/categories/Dronalismo/</loc>
         <lastmod>2017-02-27T17:03:53.089Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://odrones.github.io/categories/Dronalismo/Series/</loc>
+        <loc>https://blog.odrones.com.br/categories/Dronalismo/Series/</loc>
         <lastmod>2017-02-27T17:03:53.089Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://odrones.github.io/categories/Noticias/</loc>
+        <loc>https://blog.odrones.com.br/categories/Noticias/</loc>
         <lastmod>2017-02-27T17:37:31.932Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://odrones.github.io/categories/Artigos/</loc>
+        <loc>https://blog.odrones.com.br/categories/Artigos/</loc>
         <lastmod>2017-02-27T17:45:15.963Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
