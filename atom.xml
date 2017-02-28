@@ -4,9 +4,9 @@
   <subtitle>Abordando tudo sobre drones, ODrones é o portal de informações sobre para o Brasil.</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://localhost:4000/"/>
+  <link href="https://odrones.github.io/"/>
   <updated>2017-02-28T03:12:38.029Z</updated>
-  <id>http://localhost:4000/</id>
+  <id>https://odrones.github.io/</id>
   
   <author>
     <name>John Doe</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://localhost:4000/hello-world/"/>
-    <id>http://localhost:4000/hello-world/</id>
+    <link href="https://odrones.github.io/hello-world/"/>
+    <id>https://odrones.github.io/hello-world/</id>
     <published>2017-02-28T03:12:38.029Z</published>
     <updated>2017-02-28T03:12:38.029Z</updated>
     
@@ -44,8 +44,8 @@
   
   <entry>
     <title>Dronalismo: o que é, onde está, o que faz?</title>
-    <link href="http://localhost:4000/o-dronalismo/"/>
-    <id>http://localhost:4000/o-dronalismo/</id>
+    <link href="https://odrones.github.io/o-dronalismo/"/>
+    <id>https://odrones.github.io/o-dronalismo/</id>
     <published>2016-05-29T17:42:17.000Z</published>
     <updated>2017-02-27T17:03:53.089Z</updated>
     
@@ -97,25 +97,25 @@
     
     </summary>
     
-      <category term="Dronalismo" scheme="http://localhost:4000/categories/Dronalismo/"/>
+      <category term="Dronalismo" scheme="https://odrones.github.io/categories/Dronalismo/"/>
     
-      <category term="Séries" scheme="http://localhost:4000/categories/Dronalismo/Series/"/>
+      <category term="Séries" scheme="https://odrones.github.io/categories/Dronalismo/Series/"/>
     
     
-      <category term="dronalismo" scheme="http://localhost:4000/tags/dronalismo/"/>
+      <category term="dronalismo" scheme="https://odrones.github.io/tags/dronalismo/"/>
     
-      <category term="jornalismo" scheme="http://localhost:4000/tags/jornalismo/"/>
+      <category term="jornalismo" scheme="https://odrones.github.io/tags/jornalismo/"/>
     
-      <category term="sally french" scheme="http://localhost:4000/tags/sally-french/"/>
+      <category term="sally french" scheme="https://odrones.github.io/tags/sally-french/"/>
     
-      <category term="universidade de missouri" scheme="http://localhost:4000/tags/universidade-de-missouri/"/>
+      <category term="universidade de missouri" scheme="https://odrones.github.io/tags/universidade-de-missouri/"/>
     
   </entry>
   
   <entry>
     <title>Drones especiais para comemorar o Star Wars Day</title>
-    <link href="http://localhost:4000/drones-especiais-star-wars-day/"/>
-    <id>http://localhost:4000/drones-especiais-star-wars-day/</id>
+    <link href="https://odrones.github.io/drones-especiais-star-wars-day/"/>
+    <id>https://odrones.github.io/drones-especiais-star-wars-day/</id>
     <published>2016-05-04T18:11:05.000Z</published>
     <updated>2017-02-27T04:22:14.793Z</updated>
     
@@ -140,21 +140,21 @@
     
     </summary>
     
-      <category term="Notícias" scheme="http://localhost:4000/categories/Noticias/"/>
+      <category term="Notícias" scheme="https://odrones.github.io/categories/Noticias/"/>
     
     
-      <category term="4may" scheme="http://localhost:4000/tags/4may/"/>
+      <category term="4may" scheme="https://odrones.github.io/tags/4may/"/>
     
-      <category term="bb-8" scheme="http://localhost:4000/tags/bb-8/"/>
+      <category term="bb-8" scheme="https://odrones.github.io/tags/bb-8/"/>
     
-      <category term="star wars day" scheme="http://localhost:4000/tags/star-wars-day/"/>
+      <category term="star wars day" scheme="https://odrones.github.io/tags/star-wars-day/"/>
     
   </entry>
   
   <entry>
     <title>Passeio da Tocha Olímpica traz restrições aos drones</title>
-    <link href="http://localhost:4000/tocha-olimpica-restricoes-drones/"/>
-    <id>http://localhost:4000/tocha-olimpica-restricoes-drones/</id>
+    <link href="https://odrones.github.io/tocha-olimpica-restricoes-drones/"/>
+    <id>https://odrones.github.io/tocha-olimpica-restricoes-drones/</id>
     <published>2016-05-04T16:53:53.000Z</published>
     <updated>2017-02-27T17:27:04.915Z</updated>
     
@@ -185,21 +185,21 @@
     
     </summary>
     
-      <category term="Notícias" scheme="http://localhost:4000/categories/Noticias/"/>
+      <category term="Notícias" scheme="https://odrones.github.io/categories/Noticias/"/>
     
     
-      <category term="drone" scheme="http://localhost:4000/tags/drone/"/>
+      <category term="drone" scheme="https://odrones.github.io/tags/drone/"/>
     
-      <category term="Rio2016" scheme="http://localhost:4000/tags/Rio2016/"/>
+      <category term="Rio2016" scheme="https://odrones.github.io/tags/Rio2016/"/>
     
-      <category term="tocha olímpica" scheme="http://localhost:4000/tags/tocha-olimpica/"/>
+      <category term="tocha olímpica" scheme="https://odrones.github.io/tags/tocha-olimpica/"/>
     
   </entry>
   
   <entry>
     <title>Mulheres e Drones com participação da Luh Gomes</title>
-    <link href="http://localhost:4000/mulheres-e-drones/"/>
-    <id>http://localhost:4000/mulheres-e-drones/</id>
+    <link href="https://odrones.github.io/mulheres-e-drones/"/>
+    <id>https://odrones.github.io/mulheres-e-drones/</id>
     <published>2015-10-14T16:57:28.000Z</published>
     <updated>2017-02-27T16:50:51.092Z</updated>
     
@@ -245,21 +245,21 @@
     
     </summary>
     
-      <category term="Entrevistas" scheme="http://localhost:4000/categories/Entrevistas/"/>
+      <category term="Entrevistas" scheme="https://odrones.github.io/categories/Entrevistas/"/>
     
     
-      <category term="Drone Brazukas" scheme="http://localhost:4000/tags/Drone-Brazukas/"/>
+      <category term="Drone Brazukas" scheme="https://odrones.github.io/tags/Drone-Brazukas/"/>
     
-      <category term="Luh Gomes" scheme="http://localhost:4000/tags/Luh-Gomes/"/>
+      <category term="Luh Gomes" scheme="https://odrones.github.io/tags/Luh-Gomes/"/>
     
-      <category term="Mulheres" scheme="http://localhost:4000/tags/Mulheres/"/>
+      <category term="Mulheres" scheme="https://odrones.github.io/tags/Mulheres/"/>
     
   </entry>
   
   <entry>
     <title>Algoritmos matemáticos e esporte: criando atletas</title>
-    <link href="http://localhost:4000/algoritmos-criando-atletas/"/>
-    <id>http://localhost:4000/algoritmos-criando-atletas/</id>
+    <link href="https://odrones.github.io/algoritmos-criando-atletas/"/>
+    <id>https://odrones.github.io/algoritmos-criando-atletas/</id>
     <published>2015-10-03T16:11:10.000Z</published>
     <updated>2017-02-27T01:14:15.248Z</updated>
     
@@ -308,21 +308,21 @@
     
     </summary>
     
-      <category term="Artigos" scheme="http://localhost:4000/categories/Artigos/"/>
+      <category term="Artigos" scheme="https://odrones.github.io/categories/Artigos/"/>
     
     
-      <category term="Algoritmos" scheme="http://localhost:4000/tags/Algoritmos/"/>
+      <category term="Algoritmos" scheme="https://odrones.github.io/tags/Algoritmos/"/>
     
-      <category term="atletas" scheme="http://localhost:4000/tags/atletas/"/>
+      <category term="atletas" scheme="https://odrones.github.io/tags/atletas/"/>
     
-      <category term="matemáticos" scheme="http://localhost:4000/tags/matematicos/"/>
+      <category term="matemáticos" scheme="https://odrones.github.io/tags/matematicos/"/>
     
   </entry>
   
   <entry>
     <title>RJ: Arco Metropolitano será monitorado por drones</title>
-    <link href="http://localhost:4000/arco-metropolitano-monitorado-por-drones/"/>
-    <id>http://localhost:4000/arco-metropolitano-monitorado-por-drones/</id>
+    <link href="https://odrones.github.io/arco-metropolitano-monitorado-por-drones/"/>
+    <id>https://odrones.github.io/arco-metropolitano-monitorado-por-drones/</id>
     <published>2015-10-01T22:54:54.000Z</published>
     <updated>2017-02-27T01:18:35.771Z</updated>
     
@@ -341,23 +341,23 @@
     
     </summary>
     
-      <category term="Notícias" scheme="http://localhost:4000/categories/Noticias/"/>
+      <category term="Notícias" scheme="https://odrones.github.io/categories/Noticias/"/>
     
     
-      <category term="Arco" scheme="http://localhost:4000/tags/Arco/"/>
+      <category term="Arco" scheme="https://odrones.github.io/tags/Arco/"/>
     
-      <category term="drones" scheme="http://localhost:4000/tags/drones/"/>
+      <category term="drones" scheme="https://odrones.github.io/tags/drones/"/>
     
-      <category term="Metropolitano" scheme="http://localhost:4000/tags/Metropolitano/"/>
+      <category term="Metropolitano" scheme="https://odrones.github.io/tags/Metropolitano/"/>
     
-      <category term="RJ" scheme="http://localhost:4000/tags/RJ/"/>
+      <category term="RJ" scheme="https://odrones.github.io/tags/RJ/"/>
     
   </entry>
   
   <entry>
     <title>Entrevista com a Dymm: sucesso e drones juntos.</title>
-    <link href="http://localhost:4000/entrevista-dymm/"/>
-    <id>http://localhost:4000/entrevista-dymm/</id>
+    <link href="https://odrones.github.io/entrevista-dymm/"/>
+    <id>https://odrones.github.io/entrevista-dymm/</id>
     <published>2015-10-01T19:07:18.000Z</published>
     <updated>2017-02-27T13:16:06.731Z</updated>
     
@@ -396,21 +396,21 @@
     
     </summary>
     
-      <category term="Entrevistas" scheme="http://localhost:4000/categories/Entrevistas/"/>
+      <category term="Entrevistas" scheme="https://odrones.github.io/categories/Entrevistas/"/>
     
     
-      <category term="Dymm" scheme="http://localhost:4000/tags/Dymm/"/>
+      <category term="Dymm" scheme="https://odrones.github.io/tags/Dymm/"/>
     
-      <category term="Entrevista" scheme="http://localhost:4000/tags/Entrevista/"/>
+      <category term="Entrevista" scheme="https://odrones.github.io/tags/Entrevista/"/>
     
-      <category term="sucesso" scheme="http://localhost:4000/tags/sucesso/"/>
+      <category term="sucesso" scheme="https://odrones.github.io/tags/sucesso/"/>
     
   </entry>
   
   <entry>
     <title>Travessia de imigrantes entre a Turquia e Grećia</title>
-    <link href="http://localhost:4000/travessia-imigrantes-turquia-grecia/"/>
-    <id>http://localhost:4000/travessia-imigrantes-turquia-grecia/</id>
+    <link href="https://odrones.github.io/travessia-imigrantes-turquia-grecia/"/>
+    <id>https://odrones.github.io/travessia-imigrantes-turquia-grecia/</id>
     <published>2015-09-24T18:42:41.000Z</published>
     <updated>2017-02-27T17:32:27.323Z</updated>
     
@@ -431,23 +431,23 @@
     
     </summary>
     
-      <category term="Notícias" scheme="http://localhost:4000/categories/Noticias/"/>
+      <category term="Notícias" scheme="https://odrones.github.io/categories/Noticias/"/>
     
     
-      <category term="Grécia" scheme="http://localhost:4000/tags/Grecia/"/>
+      <category term="Grécia" scheme="https://odrones.github.io/tags/Grecia/"/>
     
-      <category term="imigrantes" scheme="http://localhost:4000/tags/imigrantes/"/>
+      <category term="imigrantes" scheme="https://odrones.github.io/tags/imigrantes/"/>
     
-      <category term="Travessia" scheme="http://localhost:4000/tags/Travessia/"/>
+      <category term="Travessia" scheme="https://odrones.github.io/tags/Travessia/"/>
     
-      <category term="Turquia" scheme="http://localhost:4000/tags/Turquia/"/>
+      <category term="Turquia" scheme="https://odrones.github.io/tags/Turquia/"/>
     
   </entry>
   
   <entry>
     <title>Invisíveis serão os drones americanos</title>
-    <link href="http://localhost:4000/invisiveis-americanos/"/>
-    <id>http://localhost:4000/invisiveis-americanos/</id>
+    <link href="https://odrones.github.io/invisiveis-americanos/"/>
+    <id>https://odrones.github.io/invisiveis-americanos/</id>
     <published>2015-09-24T17:07:20.000Z</published>
     <updated>2017-02-27T15:00:00.765Z</updated>
     
@@ -468,21 +468,21 @@
     
     </summary>
     
-      <category term="Notícias" scheme="http://localhost:4000/categories/Noticias/"/>
+      <category term="Notícias" scheme="https://odrones.github.io/categories/Noticias/"/>
     
     
-      <category term="drones" scheme="http://localhost:4000/tags/drones/"/>
+      <category term="drones" scheme="https://odrones.github.io/tags/drones/"/>
     
-      <category term="americanos" scheme="http://localhost:4000/tags/americanos/"/>
+      <category term="americanos" scheme="https://odrones.github.io/tags/americanos/"/>
     
-      <category term="Invisíveis" scheme="http://localhost:4000/tags/Invisiveis/"/>
+      <category term="Invisíveis" scheme="https://odrones.github.io/tags/Invisiveis/"/>
     
   </entry>
   
   <entry>
     <title>Festa de Agosto de São Roque por outro ângulo</title>
-    <link href="http://localhost:4000/festa-de-agosto-sao-roque/"/>
-    <id>http://localhost:4000/festa-de-agosto-sao-roque/</id>
+    <link href="https://odrones.github.io/festa-de-agosto-sao-roque/"/>
+    <id>https://odrones.github.io/festa-de-agosto-sao-roque/</id>
     <published>2015-09-24T08:51:52.000Z</published>
     <updated>2017-02-27T13:47:06.103Z</updated>
     
@@ -505,19 +505,19 @@
     
     </summary>
     
-      <category term="Notícias" scheme="http://localhost:4000/categories/Noticias/"/>
+      <category term="Notícias" scheme="https://odrones.github.io/categories/Noticias/"/>
     
     
-      <category term="Festa de Agosto" scheme="http://localhost:4000/tags/Festa-de-Agosto/"/>
+      <category term="Festa de Agosto" scheme="https://odrones.github.io/tags/Festa-de-Agosto/"/>
     
-      <category term="São Roque" scheme="http://localhost:4000/tags/Sao-Roque/"/>
+      <category term="São Roque" scheme="https://odrones.github.io/tags/Sao-Roque/"/>
     
   </entry>
   
   <entry>
     <title>Ponte feita por drones: o futuro da construção civil?</title>
-    <link href="http://localhost:4000/ponte-futuro-construcao-civil/"/>
-    <id>http://localhost:4000/ponte-futuro-construcao-civil/</id>
+    <link href="https://odrones.github.io/ponte-futuro-construcao-civil/"/>
+    <id>https://odrones.github.io/ponte-futuro-construcao-civil/</id>
     <published>2015-09-22T19:16:25.000Z</published>
     <updated>2017-02-27T17:10:54.285Z</updated>
     
@@ -538,21 +538,21 @@
     
     </summary>
     
-      <category term="Notícias" scheme="http://localhost:4000/categories/Noticias/"/>
+      <category term="Notícias" scheme="https://odrones.github.io/categories/Noticias/"/>
     
     
-      <category term="civil" scheme="http://localhost:4000/tags/civil/"/>
+      <category term="civil" scheme="https://odrones.github.io/tags/civil/"/>
     
-      <category term="construção" scheme="http://localhost:4000/tags/construcao/"/>
+      <category term="construção" scheme="https://odrones.github.io/tags/construcao/"/>
     
-      <category term="Ponte" scheme="http://localhost:4000/tags/Ponte/"/>
+      <category term="Ponte" scheme="https://odrones.github.io/tags/Ponte/"/>
     
   </entry>
   
   <entry>
     <title>Guia passo-a-passo para comprar um drone</title>
-    <link href="http://localhost:4000/guia-para-comprar-drone/"/>
-    <id>http://localhost:4000/guia-para-comprar-drone/</id>
+    <link href="https://odrones.github.io/guia-para-comprar-drone/"/>
+    <id>https://odrones.github.io/guia-para-comprar-drone/</id>
     <published>2015-09-20T21:29:20.000Z</published>
     <updated>2017-02-27T14:15:22.308Z</updated>
     
@@ -611,21 +611,21 @@
     
     </summary>
     
-      <category term="Artigos" scheme="http://localhost:4000/categories/Artigos/"/>
+      <category term="Artigos" scheme="https://odrones.github.io/categories/Artigos/"/>
     
     
-      <category term="drone" scheme="http://localhost:4000/tags/drone/"/>
+      <category term="drone" scheme="https://odrones.github.io/tags/drone/"/>
     
-      <category term="comprar" scheme="http://localhost:4000/tags/comprar/"/>
+      <category term="comprar" scheme="https://odrones.github.io/tags/comprar/"/>
     
-      <category term="guia" scheme="http://localhost:4000/tags/guia/"/>
+      <category term="guia" scheme="https://odrones.github.io/tags/guia/"/>
     
   </entry>
   
   <entry>
     <title>Drone Legal: Voando com Segurança</title>
-    <link href="http://localhost:4000/drone-legal/"/>
-    <id>http://localhost:4000/drone-legal/</id>
+    <link href="https://odrones.github.io/drone-legal/"/>
+    <id>https://odrones.github.io/drone-legal/</id>
     <published>2015-09-06T01:24:02.000Z</published>
     <updated>2017-02-27T03:15:50.981Z</updated>
     
@@ -648,25 +648,25 @@
     
     </summary>
     
-      <category term="Notícias" scheme="http://localhost:4000/categories/Noticias/"/>
+      <category term="Notícias" scheme="https://odrones.github.io/categories/Noticias/"/>
     
     
-      <category term="Brasil" scheme="http://localhost:4000/tags/Brasil/"/>
+      <category term="Brasil" scheme="https://odrones.github.io/tags/Brasil/"/>
     
-      <category term="Campanha" scheme="http://localhost:4000/tags/Campanha/"/>
+      <category term="Campanha" scheme="https://odrones.github.io/tags/Campanha/"/>
     
-      <category term="Conscientização" scheme="http://localhost:4000/tags/Conscientizacao/"/>
+      <category term="Conscientização" scheme="https://odrones.github.io/tags/Conscientizacao/"/>
     
-      <category term="Drone Legal" scheme="http://localhost:4000/tags/Drone-Legal/"/>
+      <category term="Drone Legal" scheme="https://odrones.github.io/tags/Drone-Legal/"/>
     
-      <category term="Regulamentação" scheme="http://localhost:4000/tags/Regulamentacao/"/>
+      <category term="Regulamentação" scheme="https://odrones.github.io/tags/Regulamentacao/"/>
     
   </entry>
   
   <entry>
     <title>Measure e seu enxame são aprovados pela FAA</title>
-    <link href="http://localhost:4000/measure-seu-enxame-aprovados/"/>
-    <id>http://localhost:4000/measure-seu-enxame-aprovados/</id>
+    <link href="https://odrones.github.io/measure-seu-enxame-aprovados/"/>
+    <id>https://odrones.github.io/measure-seu-enxame-aprovados/</id>
     <published>2015-09-03T04:36:57.000Z</published>
     <updated>2017-02-27T15:37:44.803Z</updated>
     
@@ -688,23 +688,23 @@
     
     </summary>
     
-      <category term="Notícias" scheme="http://localhost:4000/categories/Noticias/"/>
+      <category term="Notícias" scheme="https://odrones.github.io/categories/Noticias/"/>
     
     
-      <category term="FAA" scheme="http://localhost:4000/tags/FAA/"/>
+      <category term="FAA" scheme="https://odrones.github.io/tags/FAA/"/>
     
-      <category term="aprovados" scheme="http://localhost:4000/tags/aprovados/"/>
+      <category term="aprovados" scheme="https://odrones.github.io/tags/aprovados/"/>
     
-      <category term="enxame" scheme="http://localhost:4000/tags/enxame/"/>
+      <category term="enxame" scheme="https://odrones.github.io/tags/enxame/"/>
     
-      <category term="Measure" scheme="http://localhost:4000/tags/Measure/"/>
+      <category term="Measure" scheme="https://odrones.github.io/tags/Measure/"/>
     
   </entry>
   
   <entry>
     <title>Vulnerabilidades em drones da Parrot</title>
-    <link href="http://localhost:4000/vulnerabilidades-parrot/"/>
-    <id>http://localhost:4000/vulnerabilidades-parrot/</id>
+    <link href="https://odrones.github.io/vulnerabilidades-parrot/"/>
+    <id>https://odrones.github.io/vulnerabilidades-parrot/</id>
     <published>2015-08-31T05:36:33.000Z</published>
     <updated>2017-02-27T17:45:15.963Z</updated>
     
@@ -728,21 +728,21 @@
     
     </summary>
     
-      <category term="Artigos" scheme="http://localhost:4000/categories/Artigos/"/>
+      <category term="Artigos" scheme="https://odrones.github.io/categories/Artigos/"/>
     
     
-      <category term="hackers" scheme="http://localhost:4000/tags/hackers/"/>
+      <category term="hackers" scheme="https://odrones.github.io/tags/hackers/"/>
     
-      <category term="parrot" scheme="http://localhost:4000/tags/parrot/"/>
+      <category term="parrot" scheme="https://odrones.github.io/tags/parrot/"/>
     
-      <category term="vulnerabilidades" scheme="http://localhost:4000/tags/vulnerabilidades/"/>
+      <category term="vulnerabilidades" scheme="https://odrones.github.io/tags/vulnerabilidades/"/>
     
   </entry>
   
   <entry>
     <title>Dymm – Empreendedorismo e Drones</title>
-    <link href="http://localhost:4000/dymm-empreendedorismo-drones/"/>
-    <id>http://localhost:4000/dymm-empreendedorismo-drones/</id>
+    <link href="https://odrones.github.io/dymm-empreendedorismo-drones/"/>
+    <id>https://odrones.github.io/dymm-empreendedorismo-drones/</id>
     <published>2015-08-25T17:13:41.000Z</published>
     <updated>2017-02-27T13:00:40.175Z</updated>
     
@@ -764,21 +764,21 @@
     
     </summary>
     
-      <category term="Notícias" scheme="http://localhost:4000/categories/Noticias/"/>
+      <category term="Notícias" scheme="https://odrones.github.io/categories/Noticias/"/>
     
     
-      <category term="Dymm" scheme="http://localhost:4000/tags/Dymm/"/>
+      <category term="Dymm" scheme="https://odrones.github.io/tags/Dymm/"/>
     
-      <category term="empreendedorismo" scheme="http://localhost:4000/tags/empreendedorismo/"/>
+      <category term="empreendedorismo" scheme="https://odrones.github.io/tags/empreendedorismo/"/>
     
-      <category term="entrevista" scheme="http://localhost:4000/tags/entrevista/"/>
+      <category term="entrevista" scheme="https://odrones.github.io/tags/entrevista/"/>
     
   </entry>
   
   <entry>
     <title>Invasão de privacidade via drones em praia nudista</title>
-    <link href="http://localhost:4000/invasao-de-privacidade-praia-nudista/"/>
-    <id>http://localhost:4000/invasao-de-privacidade-praia-nudista/</id>
+    <link href="https://odrones.github.io/invasao-de-privacidade-praia-nudista/"/>
+    <id>https://odrones.github.io/invasao-de-privacidade-praia-nudista/</id>
     <published>2015-07-28T15:57:11.000Z</published>
     <updated>2017-02-27T14:57:36.891Z</updated>
     
@@ -796,23 +796,23 @@
     
     </summary>
     
-      <category term="Notícias" scheme="http://localhost:4000/categories/Noticias/"/>
+      <category term="Notícias" scheme="https://odrones.github.io/categories/Noticias/"/>
     
     
-      <category term="Invasão" scheme="http://localhost:4000/tags/Invasao/"/>
+      <category term="Invasão" scheme="https://odrones.github.io/tags/Invasao/"/>
     
-      <category term="nudista" scheme="http://localhost:4000/tags/nudista/"/>
+      <category term="nudista" scheme="https://odrones.github.io/tags/nudista/"/>
     
-      <category term="praia" scheme="http://localhost:4000/tags/praia/"/>
+      <category term="praia" scheme="https://odrones.github.io/tags/praia/"/>
     
-      <category term="privacidade" scheme="http://localhost:4000/tags/privacidade/"/>
+      <category term="privacidade" scheme="https://odrones.github.io/tags/privacidade/"/>
     
   </entry>
   
   <entry>
     <title>Samsung anuncia novo projeto envolvendo drones</title>
-    <link href="http://localhost:4000/samsung-projeto-envolvendo-drones/"/>
-    <id>http://localhost:4000/samsung-projeto-envolvendo-drones/</id>
+    <link href="https://odrones.github.io/samsung-projeto-envolvendo-drones/"/>
+    <id>https://odrones.github.io/samsung-projeto-envolvendo-drones/</id>
     <published>2015-07-28T02:51:59.000Z</published>
     <updated>2017-02-27T17:23:13.430Z</updated>
     
@@ -830,21 +830,21 @@
     
     </summary>
     
-      <category term="Notícias" scheme="http://localhost:4000/categories/Noticias/"/>
+      <category term="Notícias" scheme="https://odrones.github.io/categories/Noticias/"/>
     
     
-      <category term="selfie" scheme="http://localhost:4000/tags/selfie/"/>
+      <category term="selfie" scheme="https://odrones.github.io/tags/selfie/"/>
     
-      <category term="camera" scheme="http://localhost:4000/tags/camera/"/>
+      <category term="camera" scheme="https://odrones.github.io/tags/camera/"/>
     
-      <category term="samsung" scheme="http://localhost:4000/tags/samsung/"/>
+      <category term="samsung" scheme="https://odrones.github.io/tags/samsung/"/>
     
   </entry>
   
   <entry>
     <title>Rádio Mix FM sorteará 2 drones e 2 GoPro</title>
-    <link href="http://localhost:4000/radio-mix-fm-sorteara-drones/"/>
-    <id>http://localhost:4000/radio-mix-fm-sorteara-drones/</id>
+    <link href="https://odrones.github.io/radio-mix-fm-sorteara-drones/"/>
+    <id>https://odrones.github.io/radio-mix-fm-sorteara-drones/</id>
     <published>2015-07-28T01:54:48.000Z</published>
     <updated>2017-02-27T17:15:27.692Z</updated>
     
@@ -862,14 +862,14 @@
     
     </summary>
     
-      <category term="Notícias" scheme="http://localhost:4000/categories/Noticias/"/>
+      <category term="Notícias" scheme="https://odrones.github.io/categories/Noticias/"/>
     
     
-      <category term="FM" scheme="http://localhost:4000/tags/FM/"/>
+      <category term="FM" scheme="https://odrones.github.io/tags/FM/"/>
     
-      <category term="GoPro" scheme="http://localhost:4000/tags/GoPro/"/>
+      <category term="GoPro" scheme="https://odrones.github.io/tags/GoPro/"/>
     
-      <category term="Rádio Mix" scheme="http://localhost:4000/tags/Radio-Mix/"/>
+      <category term="Rádio Mix" scheme="https://odrones.github.io/tags/Radio-Mix/"/>
     
   </entry>
   
