@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>ODrones</title>
   <subtitle>Abordando tudo sobre drones, ODrones é o portal de informações sobre para o Brasil.</subtitle>
-  <link href="/atom.xml" rel="self"/>
+  <link href="/blog/atom.xml" rel="self"/>
   
   <link href="https://odrones.github.io/"/>
   <updated>2017-02-28T03:12:38.029Z</updated>
