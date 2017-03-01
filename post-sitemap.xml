@@ -1,478 +1,478 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://blog.odrones.com.br</loc>
+        <loc>https://odrones.com.br</loc>
         <changefreq>daily</changefreq>
         <priority>1</priority>
     </url>
 
     <url>
-        <loc>https://blog.odrones.com.br/vulnerabilidades-parrot/</loc>
-        <lastmod>2017-02-27T17:45:15.963Z</lastmod>
+        <loc>https://odrones.com.br/algoritmos-criando-atletas/</loc>
+        <lastmod>2017-02-28T16:42:53.113Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
-        <loc>https://blog.odrones.com.br/visitar-feira-geotecnologias/</loc>
-        <lastmod>2017-02-27T17:37:31.932Z</lastmod>
+        <loc>https://odrones.com.br/drone-planta-arvores/</loc>
+        <lastmod>2017-02-28T15:05:13.385Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
-        <loc>https://blog.odrones.com.br/travessia-imigrantes-turquia-grecia/</loc>
-        <lastmod>2017-02-27T17:32:27.323Z</lastmod>
+        <loc>https://odrones.com.br/vulnerabilidades-parrot/</loc>
+        <lastmod>2017-02-28T15:01:57.706Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
-        <loc>https://blog.odrones.com.br/toquio-proibe-voos/</loc>
-        <lastmod>2017-02-27T17:29:00.181Z</lastmod>
+        <loc>https://odrones.com.br/visitar-feira-geotecnologias/</loc>
+        <lastmod>2017-02-28T15:01:46.091Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
-        <loc>https://blog.odrones.com.br/tocha-olimpica-restricoes-drones/</loc>
-        <lastmod>2017-02-27T17:27:04.915Z</lastmod>
+        <loc>https://odrones.com.br/travessia-imigrantes-turquia-grecia/</loc>
+        <lastmod>2017-02-28T15:01:35.191Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
-        <loc>https://blog.odrones.com.br/sony-mercado-drones/</loc>
-        <lastmod>2017-02-27T17:25:01.168Z</lastmod>
+        <loc>https://odrones.com.br/toquio-proibe-voos/</loc>
+        <lastmod>2017-02-28T15:01:22.036Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
-        <loc>https://blog.odrones.com.br/samsung-projeto-envolvendo-drones/</loc>
-        <lastmod>2017-02-27T17:23:13.430Z</lastmod>
+        <loc>https://odrones.com.br/tocha-olimpica-restricoes-drones/</loc>
+        <lastmod>2017-02-28T15:01:11.544Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
-        <loc>https://blog.odrones.com.br/russia-drones-no-artico/</loc>
-        <lastmod>2017-02-27T17:20:10.005Z</lastmod>
+        <loc>https://odrones.com.br/sony-mercado-drones/</loc>
+        <lastmod>2017-02-28T15:01:02.724Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
-        <loc>https://blog.odrones.com.br/resgate-entre-drones/</loc>
-        <lastmod>2017-02-27T17:17:44.584Z</lastmod>
+        <loc>https://odrones.com.br/samsung-projeto-envolvendo-drones/</loc>
+        <lastmod>2017-02-28T15:00:52.809Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
-        <loc>https://blog.odrones.com.br/radio-mix-fm-sorteara-drones/</loc>
-        <lastmod>2017-02-27T17:15:27.692Z</lastmod>
+        <loc>https://odrones.com.br/russia-drones-no-artico/</loc>
+        <lastmod>2017-02-28T15:00:41.429Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
-        <loc>https://blog.odrones.com.br/projeto-lei-restringe-drones-brasil/</loc>
-        <lastmod>2017-02-27T17:13:16.148Z</lastmod>
+        <loc>https://odrones.com.br/resgate-entre-drones/</loc>
+        <lastmod>2017-02-28T15:00:29.762Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
-        <loc>https://blog.odrones.com.br/ponte-futuro-construcao-civil/</loc>
-        <lastmod>2017-02-27T17:10:54.285Z</lastmod>
+        <loc>https://odrones.com.br/radio-mix-fm-sorteara-drones/</loc>
+        <lastmod>2017-02-28T15:00:14.630Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
-        <loc>https://blog.odrones.com.br/o-dronalismo/</loc>
-        <lastmod>2017-02-27T17:03:53.089Z</lastmod>
+        <loc>https://odrones.com.br/projeto-lei-restringe-drones-brasil/</loc>
+        <lastmod>2017-02-28T15:00:00.947Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
-        <loc>https://blog.odrones.com.br/nova-ferramenta-de-trabalho/</loc>
-        <lastmod>2017-02-27T16:52:17.520Z</lastmod>
+        <loc>https://odrones.com.br/ponte-futuro-construcao-civil/</loc>
+        <lastmod>2017-02-28T14:59:49.487Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
-        <loc>https://blog.odrones.com.br/mulheres-e-drones/</loc>
-        <lastmod>2017-02-27T16:50:51.092Z</lastmod>
+        <loc>https://odrones.com.br/o-dronalismo/</loc>
+        <lastmod>2017-02-28T14:59:38.872Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
-        <loc>https://blog.odrones.com.br/minas-14-milhoes-em-drones/</loc>
-        <lastmod>2017-02-27T16:39:00.576Z</lastmod>
+        <loc>https://odrones.com.br/nova-ferramenta-de-trabalho/</loc>
+        <lastmod>2017-02-28T14:59:23.572Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
-        <loc>https://blog.odrones.com.br/militares-nao-estao-preparados-drones/</loc>
-        <lastmod>2017-02-27T16:37:46.886Z</lastmod>
+        <loc>https://odrones.com.br/mulheres-e-drones/</loc>
+        <lastmod>2017-02-28T14:59:10.349Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
-        <loc>https://blog.odrones.com.br/menor-drone-do-mundo/</loc>
-        <lastmod>2017-02-27T16:36:21.700Z</lastmod>
+        <loc>https://odrones.com.br/minas-14-milhoes-em-drones/</loc>
+        <lastmod>2017-02-28T14:58:58.789Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
-        <loc>https://blog.odrones.com.br/melhores-modelos-iniciantes/</loc>
-        <lastmod>2017-02-27T16:33:03.532Z</lastmod>
+        <loc>https://odrones.com.br/militares-nao-estao-preparados-drones/</loc>
+        <lastmod>2017-02-28T14:58:41.774Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
-        <loc>https://blog.odrones.com.br/measure-seu-enxame-aprovados/</loc>
-        <lastmod>2017-02-27T15:37:44.803Z</lastmod>
+        <loc>https://odrones.com.br/menor-drone-do-mundo/</loc>
+        <lastmod>2017-02-28T14:58:28.938Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
-        <loc>https://blog.odrones.com.br/lily-drone-perfeito/</loc>
-        <lastmod>2017-02-27T15:01:53.569Z</lastmod>
+        <loc>https://odrones.com.br/melhores-modelos-iniciantes/</loc>
+        <lastmod>2017-02-28T14:58:13.419Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
-        <loc>https://blog.odrones.com.br/invisiveis-americanos/</loc>
-        <lastmod>2017-02-27T15:00:00.765Z</lastmod>
+        <loc>https://odrones.com.br/measure-seu-enxame-aprovados/</loc>
+        <lastmod>2017-02-28T14:58:01.155Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
-        <loc>https://blog.odrones.com.br/invasao-de-privacidade-praia-nudista/</loc>
-        <lastmod>2017-02-27T14:57:36.891Z</lastmod>
+        <loc>https://odrones.com.br/lily-drone-perfeito/</loc>
+        <lastmod>2017-02-28T14:57:51.511Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
-        <loc>https://blog.odrones.com.br/incendios-combatidos-drones/</loc>
-        <lastmod>2017-02-27T14:56:23.667Z</lastmod>
+        <loc>https://odrones.com.br/invisiveis-americanos/</loc>
+        <lastmod>2017-02-28T14:57:41.684Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
-        <loc>https://blog.odrones.com.br/holografia-3d-paraquedas/</loc>
-        <lastmod>2017-02-27T14:55:16.947Z</lastmod>
+        <loc>https://odrones.com.br/invasao-de-privacidade-praia-nudista/</loc>
+        <lastmod>2017-02-28T14:57:32.632Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
-        <loc>https://blog.odrones.com.br/historia-dos-drones/</loc>
-        <lastmod>2017-02-27T14:52:12.292Z</lastmod>
+        <loc>https://odrones.com.br/incendios-combatidos-drones/</loc>
+        <lastmod>2017-02-28T14:57:20.576Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
-        <loc>https://blog.odrones.com.br/guia-para-comprar-drone/</loc>
-        <lastmod>2017-02-27T14:15:22.308Z</lastmod>
+        <loc>https://odrones.com.br/holografia-3d-paraquedas/</loc>
+        <lastmod>2017-02-28T14:57:04.301Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
-        <loc>https://blog.odrones.com.br/google-controlar-trafego/</loc>
-        <lastmod>2017-02-27T13:57:10.309Z</lastmod>
+        <loc>https://odrones.com.br/historia-dos-drones/</loc>
+        <lastmod>2017-02-28T14:56:43.258Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
-        <loc>https://blog.odrones.com.br/futebol-gracas-ao-drone/</loc>
-        <lastmod>2017-02-27T13:52:04.018Z</lastmod>
+        <loc>https://odrones.com.br/guia-para-comprar-drone/</loc>
+        <lastmod>2017-02-28T14:56:31.590Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
-        <loc>https://blog.odrones.com.br/festa-de-agosto-sao-roque/</loc>
-        <lastmod>2017-02-27T13:47:06.103Z</lastmod>
+        <loc>https://odrones.com.br/google-controlar-trafego/</loc>
+        <lastmod>2017-02-28T14:56:13.002Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
-        <loc>https://blog.odrones.com.br/fantasma-sobrevoa-jogo/</loc>
-        <lastmod>2017-02-27T13:18:34.973Z</lastmod>
+        <loc>https://odrones.com.br/futebol-gracas-ao-drone/</loc>
+        <lastmod>2017-02-28T14:56:00.363Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
-        <loc>https://blog.odrones.com.br/entrevista-dymm/</loc>
-        <lastmod>2017-02-27T13:16:06.731Z</lastmod>
+        <loc>https://odrones.com.br/festa-de-agosto-sao-roque/</loc>
+        <lastmod>2017-02-28T14:55:47.147Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
-        <loc>https://blog.odrones.com.br/entrega-drones-brasil-opinando/</loc>
-        <lastmod>2017-02-27T13:07:18.721Z</lastmod>
+        <loc>https://odrones.com.br/fantasma-sobrevoa-jogo/</loc>
+        <lastmod>2017-02-28T14:55:32.555Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
-        <loc>https://blog.odrones.com.br/dymm-empreendedorismo-drones/</loc>
-        <lastmod>2017-02-27T13:00:40.175Z</lastmod>
+        <loc>https://odrones.com.br/entrevista-dymm/</loc>
+        <lastmod>2017-02-28T14:55:22.179Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
-        <loc>https://blog.odrones.com.br/dronestagram-uma-nova-visao/</loc>
-        <lastmod>2017-02-27T05:48:45.019Z</lastmod>
+        <loc>https://odrones.com.br/entrega-drones-brasil-opinando/</loc>
+        <lastmod>2017-02-28T14:55:08.568Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
-        <loc>https://blog.odrones.com.br/drones-resgate-mediterraneo/</loc>
-        <lastmod>2017-02-27T05:43:17.626Z</lastmod>
+        <loc>https://odrones.com.br/dymm-empreendedorismo-drones/</loc>
+        <lastmod>2017-02-28T14:54:56.624Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
-        <loc>https://blog.odrones.com.br/drones-maritimos/</loc>
-        <lastmod>2017-02-27T05:40:12.166Z</lastmod>
+        <loc>https://odrones.com.br/dronestagram-uma-nova-visao/</loc>
+        <lastmod>2017-02-28T14:54:45.248Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
-        <loc>https://blog.odrones.com.br/drones-estao-rodando-na-asia/</loc>
-        <lastmod>2017-02-27T05:35:08.792Z</lastmod>
+        <loc>https://odrones.com.br/drones-resgate-mediterraneo/</loc>
+        <lastmod>2017-02-28T14:54:34.364Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
-        <loc>https://blog.odrones.com.br/drones-especiais-star-wars-day/</loc>
-        <lastmod>2017-02-27T04:22:14.793Z</lastmod>
+        <loc>https://odrones.com.br/drones-maritimos/</loc>
+        <lastmod>2017-02-28T14:54:24.336Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
-        <loc>https://blog.odrones.com.br/drones-em-que-pe-estamos/</loc>
-        <lastmod>2017-02-27T03:54:11.832Z</lastmod>
+        <loc>https://odrones.com.br/drones-estao-rodando-na-asia/</loc>
+        <lastmod>2017-02-28T14:54:10.548Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
-        <loc>https://blog.odrones.com.br/drones-e-pimenta/</loc>
-        <lastmod>2017-02-27T03:43:28.495Z</lastmod>
+        <loc>https://odrones.com.br/drones-especiais-star-wars-day/</loc>
+        <lastmod>2017-02-28T14:53:55.336Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
-        <loc>https://blog.odrones.com.br/drones-carteiros/</loc>
-        <lastmod>2017-02-27T03:39:33.260Z</lastmod>
+        <loc>https://odrones.com.br/drones-em-que-pe-estamos/</loc>
+        <lastmod>2017-02-28T14:53:43.753Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
-        <loc>https://blog.odrones.com.br/drone-vandaliza-outdoor/</loc>
-        <lastmod>2017-02-27T03:32:35.648Z</lastmod>
+        <loc>https://odrones.com.br/drones-e-pimenta/</loc>
+        <lastmod>2017-02-28T14:53:22.561Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
-        <loc>https://blog.odrones.com.br/drone-pousa-na-agua/</loc>
-        <lastmod>2017-02-27T03:27:13.779Z</lastmod>
+        <loc>https://odrones.com.br/drones-carteiros/</loc>
+        <lastmod>2017-02-28T14:53:12.353Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
-        <loc>https://blog.odrones.com.br/drone-planta-arvores/</loc>
-        <lastmod>2017-02-27T03:18:45.864Z</lastmod>
+        <loc>https://odrones.com.br/drone-vandaliza-outdoor/</loc>
+        <lastmod>2017-02-28T14:53:02.893Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
-        <loc>https://blog.odrones.com.br/drone-legal/</loc>
-        <lastmod>2017-02-27T03:15:50.981Z</lastmod>
+        <loc>https://odrones.com.br/drone-pousa-na-agua/</loc>
+        <lastmod>2017-02-28T14:52:42.908Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
-        <loc>https://blog.odrones.com.br/drone-investiga-floresta-amazonica/</loc>
-        <lastmod>2017-02-27T03:06:44.609Z</lastmod>
+        <loc>https://odrones.com.br/drone-legal/</loc>
+        <lastmod>2017-02-28T14:52:18.536Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
-        <loc>https://blog.odrones.com.br/drone-interceptar-outros/</loc>
-        <lastmod>2017-02-27T02:53:00.487Z</lastmod>
+        <loc>https://odrones.com.br/drone-investiga-floresta-amazonica/</loc>
+        <lastmod>2017-02-28T14:52:07.620Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
-        <loc>https://blog.odrones.com.br/drone-hibrido-criado-pela-nasa/</loc>
-        <lastmod>2017-02-27T02:29:23.842Z</lastmod>
+        <loc>https://odrones.com.br/drone-interceptar-outros/</loc>
+        <lastmod>2017-02-28T14:51:53.244Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
-        <loc>https://blog.odrones.com.br/drone-europeu-voando/</loc>
-        <lastmod>2017-02-27T02:25:19.052Z</lastmod>
+        <loc>https://odrones.com.br/drone-hibrido-criado-pela-nasa/</loc>
+        <lastmod>2017-02-28T14:51:30.383Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
-        <loc>https://blog.odrones.com.br/dicas-sobre-utilizacao-drones/</loc>
-        <lastmod>2017-02-27T02:22:49.859Z</lastmod>
+        <loc>https://odrones.com.br/drone-europeu-voando/</loc>
+        <lastmod>2017-02-28T14:51:19.147Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
-        <loc>https://blog.odrones.com.br/dengue-novo-inimigo-drones/</loc>
-        <lastmod>2017-02-27T02:20:58.262Z</lastmod>
+        <loc>https://odrones.com.br/dicas-sobre-utilizacao-drones/</loc>
+        <lastmod>2017-02-28T14:51:06.947Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
-        <loc>https://blog.odrones.com.br/danca-com-drones-quem-sabe-um-futuro-filme/</loc>
-        <lastmod>2017-02-27T02:14:11.231Z</lastmod>
+        <loc>https://odrones.com.br/dengue-novo-inimigo-drones/</loc>
+        <lastmod>2017-02-28T14:50:56.862Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
-        <loc>https://blog.odrones.com.br/casamentos-contam-com-drones/</loc>
-        <lastmod>2017-02-27T01:26:13.420Z</lastmod>
+        <loc>https://odrones.com.br/danca-com-drones-quem-sabe-um-futuro-filme/</loc>
+        <lastmod>2017-02-28T14:50:45.482Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
-        <loc>https://blog.odrones.com.br/casa-branca-fechada-drone/</loc>
-        <lastmod>2017-02-27T01:23:47.050Z</lastmod>
+        <loc>https://odrones.com.br/casamentos-contam-com-drones/</loc>
+        <lastmod>2017-02-28T14:50:25.617Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
-        <loc>https://blog.odrones.com.br/area-sem-drones-em-washington-dc/</loc>
-        <lastmod>2017-02-27T01:22:17.335Z</lastmod>
+        <loc>https://odrones.com.br/casa-branca-fechada-drone/</loc>
+        <lastmod>2017-02-28T14:50:12.532Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
-        <loc>https://blog.odrones.com.br/arco-metropolitano-monitorado-por-drones/</loc>
-        <lastmod>2017-02-27T01:18:35.771Z</lastmod>
+        <loc>https://odrones.com.br/area-sem-drones-em-washington-dc/</loc>
+        <lastmod>2017-02-28T14:49:49.163Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
-        <loc>https://blog.odrones.com.br/amazon-patente-drone-seguidor/</loc>
-        <lastmod>2017-02-27T01:15:27.693Z</lastmod>
+        <loc>https://odrones.com.br/arco-metropolitano-monitorado-por-drones/</loc>
+        <lastmod>2017-02-28T14:49:15.376Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
-        <loc>https://blog.odrones.com.br/algoritmos-criando-atletas/</loc>
-        <lastmod>2017-02-27T01:14:15.248Z</lastmod>
+        <loc>https://odrones.com.br/amazon-patente-drone-seguidor/</loc>
+        <lastmod>2017-02-28T14:48:55.715Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
