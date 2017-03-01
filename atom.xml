@@ -4,9 +4,9 @@
   <subtitle>Abordando tudo sobre drones, ODrones é o portal de informações sobre para o Brasil.</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://odrones.com.br/"/>
+  <link href="http://localhost:4000/"/>
   <updated>2017-02-28T14:59:38.872Z</updated>
-  <id>https://odrones.com.br/</id>
+  <id>http://localhost:4000/</id>
   
   <author>
     <name>[object Object]</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>Dronalismo: o que é, onde está, o que faz?</title>
-    <link href="https://odrones.com.br/o-dronalismo/"/>
-    <id>https://odrones.com.br/o-dronalismo/</id>
+    <link href="http://localhost:4000/o-dronalismo/"/>
+    <id>http://localhost:4000/o-dronalismo/</id>
     <published>2016-05-29T17:42:17.000Z</published>
     <updated>2017-02-28T14:59:38.872Z</updated>
     
@@ -70,25 +70,25 @@
     
     </summary>
     
-      <category term="Dronalismo" scheme="https://odrones.com.br/categories/Dronalismo/"/>
+      <category term="Dronalismo" scheme="http://localhost:4000/categories/Dronalismo/"/>
     
-      <category term="Séries" scheme="https://odrones.com.br/categories/Dronalismo/Series/"/>
+      <category term="Séries" scheme="http://localhost:4000/categories/Dronalismo/Series/"/>
     
     
-      <category term="dronalismo" scheme="https://odrones.com.br/tags/dronalismo/"/>
+      <category term="dronalismo" scheme="http://localhost:4000/tags/dronalismo/"/>
     
-      <category term="jornalismo" scheme="https://odrones.com.br/tags/jornalismo/"/>
+      <category term="jornalismo" scheme="http://localhost:4000/tags/jornalismo/"/>
     
-      <category term="sally french" scheme="https://odrones.com.br/tags/sally-french/"/>
+      <category term="sally french" scheme="http://localhost:4000/tags/sally-french/"/>
     
-      <category term="universidade de missouri" scheme="https://odrones.com.br/tags/universidade-de-missouri/"/>
+      <category term="universidade de missouri" scheme="http://localhost:4000/tags/universidade-de-missouri/"/>
     
   </entry>
   
   <entry>
     <title>Drones especiais para comemorar o Star Wars Day</title>
-    <link href="https://odrones.com.br/drones-especiais-star-wars-day/"/>
-    <id>https://odrones.com.br/drones-especiais-star-wars-day/</id>
+    <link href="http://localhost:4000/drones-especiais-star-wars-day/"/>
+    <id>http://localhost:4000/drones-especiais-star-wars-day/</id>
     <published>2016-05-04T18:11:05.000Z</published>
     <updated>2017-02-28T14:53:55.336Z</updated>
     
@@ -105,7 +105,7 @@
 <p>Pode ser adquirido no Brasil por cerca de R$ 2.500,00.</p>
 <h2 id="E-la-vem-um-VANT-para-comemorar-o-4-de-maio"><a href="#E-la-vem-um-VANT-para-comemorar-o-4-de-maio" class="headerlink" title="E lá vem um VANT para comemorar o 4 de maio"></a>E lá vem um VANT para comemorar o 4 de maio</h2><div class="figure fig-100 center" style="width:;"><img class="fig-img" src="/images/drone-star-wars.jpg" alt="Drone inspirado em Star Wars"><span class="caption">Drone inspirado em Star Wars</span></div>
 <p>Outros dois brinquedos que prometem fazer a cabeça dos fãs de Star Wars são os drones temáticos da <em>Millenium Falcon</em> e da <em>X-Wing</em>. Ambos os modelos são leves e possuem controle remoto, como já ocorre com outros modelos de drones.</p>
-<p>Apesar de não haver maiores informações sobre os <a href="https://odrones.com.br/drones-definicao-historia-usos/">veículos aéreos não tripulados</a> (VANTs) inspirados no filme, estima-se que eles não virão com grandes ferramentas, como câmeras e sensores, mas não diminui o quão interessante pode ser para um fã sentir a emoção de controlar uma das aeronaves dos filmes.</p>]]></content>
+<p>Apesar de não haver maiores informações sobre os <a href="https://odrones.com.br/drones-definicao-historia-usos/" target="_blank" rel="external">veículos aéreos não tripulados</a> (VANTs) inspirados no filme, estima-se que eles não virão com grandes ferramentas, como câmeras e sensores, mas não diminui o quão interessante pode ser para um fã sentir a emoção de controlar uma das aeronaves dos filmes.</p>]]></content>
     
     <summary type="html">
     
@@ -113,21 +113,21 @@
     
     </summary>
     
-      <category term="Notícias" scheme="https://odrones.com.br/categories/Noticias/"/>
+      <category term="Notícias" scheme="http://localhost:4000/categories/Noticias/"/>
     
     
-      <category term="4may" scheme="https://odrones.com.br/tags/4may/"/>
+      <category term="4may" scheme="http://localhost:4000/tags/4may/"/>
     
-      <category term="bb-8" scheme="https://odrones.com.br/tags/bb-8/"/>
+      <category term="bb-8" scheme="http://localhost:4000/tags/bb-8/"/>
     
-      <category term="star wars day" scheme="https://odrones.com.br/tags/star-wars-day/"/>
+      <category term="star wars day" scheme="http://localhost:4000/tags/star-wars-day/"/>
     
   </entry>
   
   <entry>
     <title>Passeio da Tocha Olímpica traz restrições aos drones</title>
-    <link href="https://odrones.com.br/tocha-olimpica-restricoes-drones/"/>
-    <id>https://odrones.com.br/tocha-olimpica-restricoes-drones/</id>
+    <link href="http://localhost:4000/tocha-olimpica-restricoes-drones/"/>
+    <id>http://localhost:4000/tocha-olimpica-restricoes-drones/</id>
     <published>2016-05-04T16:53:53.000Z</published>
     <updated>2017-02-28T15:01:11.544Z</updated>
     
@@ -158,21 +158,21 @@
     
     </summary>
     
-      <category term="Notícias" scheme="https://odrones.com.br/categories/Noticias/"/>
+      <category term="Notícias" scheme="http://localhost:4000/categories/Noticias/"/>
     
     
-      <category term="drone" scheme="https://odrones.com.br/tags/drone/"/>
+      <category term="drone" scheme="http://localhost:4000/tags/drone/"/>
     
-      <category term="Rio2016" scheme="https://odrones.com.br/tags/Rio2016/"/>
+      <category term="Rio2016" scheme="http://localhost:4000/tags/Rio2016/"/>
     
-      <category term="tocha olímpica" scheme="https://odrones.com.br/tags/tocha-olimpica/"/>
+      <category term="tocha olímpica" scheme="http://localhost:4000/tags/tocha-olimpica/"/>
     
   </entry>
   
   <entry>
     <title>Mulheres e Drones com participação da Luh Gomes</title>
-    <link href="https://odrones.com.br/mulheres-e-drones/"/>
-    <id>https://odrones.com.br/mulheres-e-drones/</id>
+    <link href="http://localhost:4000/mulheres-e-drones/"/>
+    <id>http://localhost:4000/mulheres-e-drones/</id>
     <published>2015-10-14T16:57:28.000Z</published>
     <updated>2017-02-28T14:59:10.349Z</updated>
     
@@ -218,21 +218,21 @@
     
     </summary>
     
-      <category term="Entrevistas" scheme="https://odrones.com.br/categories/Entrevistas/"/>
+      <category term="Entrevistas" scheme="http://localhost:4000/categories/Entrevistas/"/>
     
     
-      <category term="Drone Brazukas" scheme="https://odrones.com.br/tags/Drone-Brazukas/"/>
+      <category term="Drone Brazukas" scheme="http://localhost:4000/tags/Drone-Brazukas/"/>
     
-      <category term="Luh Gomes" scheme="https://odrones.com.br/tags/Luh-Gomes/"/>
+      <category term="Luh Gomes" scheme="http://localhost:4000/tags/Luh-Gomes/"/>
     
-      <category term="Mulheres" scheme="https://odrones.com.br/tags/Mulheres/"/>
+      <category term="Mulheres" scheme="http://localhost:4000/tags/Mulheres/"/>
     
   </entry>
   
   <entry>
     <title>Algoritmos matemáticos e esporte: criando atletas</title>
-    <link href="https://odrones.com.br/algoritmos-criando-atletas/"/>
-    <id>https://odrones.com.br/algoritmos-criando-atletas/</id>
+    <link href="http://localhost:4000/algoritmos-criando-atletas/"/>
+    <id>http://localhost:4000/algoritmos-criando-atletas/</id>
     <published>2015-10-03T16:11:10.000Z</published>
     <updated>2017-02-28T16:42:53.113Z</updated>
     
@@ -280,21 +280,21 @@
     
     </summary>
     
-      <category term="Artigos" scheme="https://odrones.com.br/categories/Artigos/"/>
+      <category term="Artigos" scheme="http://localhost:4000/categories/Artigos/"/>
     
     
-      <category term="Algoritmos" scheme="https://odrones.com.br/tags/Algoritmos/"/>
+      <category term="Algoritmos" scheme="http://localhost:4000/tags/Algoritmos/"/>
     
-      <category term="atletas" scheme="https://odrones.com.br/tags/atletas/"/>
+      <category term="atletas" scheme="http://localhost:4000/tags/atletas/"/>
     
-      <category term="matemáticos" scheme="https://odrones.com.br/tags/matematicos/"/>
+      <category term="matemáticos" scheme="http://localhost:4000/tags/matematicos/"/>
     
   </entry>
   
   <entry>
     <title>RJ: Arco Metropolitano será monitorado por drones</title>
-    <link href="https://odrones.com.br/arco-metropolitano-monitorado-por-drones/"/>
-    <id>https://odrones.com.br/arco-metropolitano-monitorado-por-drones/</id>
+    <link href="http://localhost:4000/arco-metropolitano-monitorado-por-drones/"/>
+    <id>http://localhost:4000/arco-metropolitano-monitorado-por-drones/</id>
     <published>2015-10-01T22:54:54.000Z</published>
     <updated>2017-02-28T14:49:15.376Z</updated>
     
@@ -313,39 +313,39 @@
     
     </summary>
     
-      <category term="Notícias" scheme="https://odrones.com.br/categories/Noticias/"/>
+      <category term="Notícias" scheme="http://localhost:4000/categories/Noticias/"/>
     
     
-      <category term="Arco" scheme="https://odrones.com.br/tags/Arco/"/>
+      <category term="Arco" scheme="http://localhost:4000/tags/Arco/"/>
     
-      <category term="drones" scheme="https://odrones.com.br/tags/drones/"/>
+      <category term="drones" scheme="http://localhost:4000/tags/drones/"/>
     
-      <category term="Metropolitano" scheme="https://odrones.com.br/tags/Metropolitano/"/>
+      <category term="Metropolitano" scheme="http://localhost:4000/tags/Metropolitano/"/>
     
-      <category term="RJ" scheme="https://odrones.com.br/tags/RJ/"/>
+      <category term="RJ" scheme="http://localhost:4000/tags/RJ/"/>
     
   </entry>
   
   <entry>
     <title>Entrevista com a Dymm: sucesso e drones juntos.</title>
-    <link href="https://odrones.com.br/entrevista-dymm/"/>
-    <id>https://odrones.com.br/entrevista-dymm/</id>
+    <link href="http://localhost:4000/entrevista-dymm/"/>
+    <id>http://localhost:4000/entrevista-dymm/</id>
     <published>2015-10-01T19:07:18.000Z</published>
     <updated>2017-02-28T14:55:22.179Z</updated>
     
     <content type="html"><![CDATA[<!-- excerpt --></p>
-<p>Já falamos, aqui no <strong>ODrones,</strong> sobre o caso da <a href="https://odrones.com.br/dymm-empreendedorismo-drones/"><strong>Dymm</strong> e o sucesso dos seus três fundadores</a>. Não é uma novidade que os drones estão ganhando espaço e cada vez há mais empresas que o utilizam como ferramenta de trabalho, e algumas os usam como a ferramenta. E há a tendência de que, com a regulamentação brasileira sobre os veículos aéreos não tripulados, haja uma explosão no número de negócios que apostam nos drones para ter o seu faturamento. O mercado tende a se tornar competitivo, mas também deixará diversas oportunidades àqueles que quiseram aproveitar para fazer um bom serviço. E no que diz um bom serviço, podemos destacar como fatores:</p>
+<p>Já falamos, aqui no <strong>ODrones,</strong> sobre o caso da <a href="https://odrones.com.br/dymm-empreendedorismo-drones/" target="_blank" rel="external"><strong>Dymm</strong> e o sucesso dos seus três fundadores</a>. Não é uma novidade que os drones estão ganhando espaço e cada vez há mais empresas que o utilizam como ferramenta de trabalho, e algumas os usam como a ferramenta. E há a tendência de que, com a regulamentação brasileira sobre os veículos aéreos não tripulados, haja uma explosão no número de negócios que apostam nos drones para ter o seu faturamento. O mercado tende a se tornar competitivo, mas também deixará diversas oportunidades àqueles que quiseram aproveitar para fazer um bom serviço. E no que diz um bom serviço, podemos destacar como fatores:</p>
 <ul>
 <li>A qualidade do produto final, destinado ao cliente que tiver contratado o serviço. Se ele contratou a sua empresa para produzir imagens aéreas, é seu dever entregar imagens nítidas, não tremidas e que satisfaçam a necessidade do cliente;</li>
 <li>A comunicação entre o profissional, ou empresa, que está prestando o serviço e o cliente é crucial. Um bom atendimento faz toda a diferença, e em todos os setores do mercado de trabalho;</li>
 <li>A prévia comunicação com o cliente, e se houverem pessoas presentes no local onde serão feita as imagens é necessário a autorização do uso de imagens delas, para que seja permitido o voo; o uso das imagens; e delimitado o quê será gravado, onde e quando;</li>
 <li>Conversar com o cliente para usar uma amostra do serviço prestado, como parte integrante de um portfólio &#8211; muitas empresas podem querer ter uma primeira impressão antes de contratar o serviço com os drones;</li>
-<li>Entre outras dicas que podem ser encontradas na nossa postagem: <a href="https://odrones.com.br/dicas-sobre-utilizacao-drones/">6 dicas sobre a utilização de drones</a>.</li>
+<li>Entre outras dicas que podem ser encontradas na nossa postagem: <a href="https://odrones.com.br/dicas-sobre-utilizacao-drones/" target="_blank" rel="external">6 dicas sobre a utilização de drones</a>.</li>
 </ul>
 <p>E no que diz respeito à Dymm, ela cumpre todos estes e mais alguns. Como já era de se esperar de uma empresa que já chegou até a fazer imagens que foram utilizadas pela <a href="http://globoplay.globo.com/v/4288524/" target="_blank" rel="external">Rede Globo de Televisão</a>.</p>
 <p>Para ajudar a divulgação de negócios que usem os drones como ferramenta de trabalho, contribuir na construção da sua marca e na visibilidade dela no mercado, e facilitar às empresas, e clientes, que queiram contratar algum profissional com os veículos aéreos não tripulados. Lançamos hoje as entrevistas do <strong>ODrones,</strong> o objetivo é <strong>aproximar profissionais e empresas interessadas</strong>, além de <strong>aproximar o mundo dos drones dos leitores</strong> &#8211; mostrando casos de sucesso àqueles que estão pensando em abrir uma empresa no ramo.</p>
 <p>E para lançamento das nossas entrevistas, tivemos a honra de entrevistar o Yuri, fundador da Dymm.</p>
-<p><a href="https://odrones.com.br/dymm-empreendedorismo-drones/"> <div class="figure fig-100 center" style="width:;"><img class="fig-img" src="/images/Dymm.png" alt="Dymm"><span class="caption">Dymm</span></div> </a></p>
+<p><a href="https://odrones.com.br/dymm-empreendedorismo-drones/" target="_blank" rel="external"> <div class="figure fig-100 center" style="width:;"><img class="fig-img" src="/images/Dymm.png" alt="Dymm"><span class="caption">Dymm</span></div> </a></p>
 <ul>
 <li><p><strong>Conte um pouco sobre você, os seus sócios e a sua relação com eles.</strong><br>Sou formado em Desenho Industrial, Projeto de Produto, pela <a href="http://www.puc-rio.br/index.html" target="_blank" rel="external">PUC-Rio</a>. E também fiz pós-graduação CBA em Gestão de Negócios no <a href="http://www.ibmec.br/" target="_blank" rel="external">IBMEC</a>. Tecnologia sempre foi um dos temas que tive mais interesse e, quando os drones começaram a ficar disponíveis para o consumidor comum, resolvi comprar um. Como ainda era um produto caro, chamei um amigo e meu irmão para comprar o drone comigo. Dessa forma, cada um pagaria um valor mais em conta e poderíamos todos usar o produto.<br>Eles dois são meus sócios na empresa. Meu irmão (Yan) é formado em engenharia e nosso amigo (Danilo) em arquitetura. Esta diversidade em nossas formações também é um dos fatores de sucesso da <strong>Dymm,</strong> pois nos permite ter uma visão bem diversificada sobre a empresa e o mercado.</p>
 </li>
@@ -368,27 +368,27 @@
     
     </summary>
     
-      <category term="Entrevistas" scheme="https://odrones.com.br/categories/Entrevistas/"/>
+      <category term="Entrevistas" scheme="http://localhost:4000/categories/Entrevistas/"/>
     
     
-      <category term="Dymm" scheme="https://odrones.com.br/tags/Dymm/"/>
+      <category term="Dymm" scheme="http://localhost:4000/tags/Dymm/"/>
     
-      <category term="Entrevista" scheme="https://odrones.com.br/tags/Entrevista/"/>
+      <category term="Entrevista" scheme="http://localhost:4000/tags/Entrevista/"/>
     
-      <category term="sucesso" scheme="https://odrones.com.br/tags/sucesso/"/>
+      <category term="sucesso" scheme="http://localhost:4000/tags/sucesso/"/>
     
   </entry>
   
   <entry>
     <title>Travessia de imigrantes entre a Turquia e Grećia</title>
-    <link href="https://odrones.com.br/travessia-imigrantes-turquia-grecia/"/>
-    <id>https://odrones.com.br/travessia-imigrantes-turquia-grecia/</id>
+    <link href="http://localhost:4000/travessia-imigrantes-turquia-grecia/"/>
+    <id>http://localhost:4000/travessia-imigrantes-turquia-grecia/</id>
     <published>2015-09-24T18:42:41.000Z</published>
     <updated>2017-02-28T15:01:35.191Z</updated>
     
     <content type="html"><![CDATA[<!-- excerpt --></p>
 <p>Não é de hoje que vemos notícias sobre a crise imigratória que vários países da Europa estão enfrentando, por conta da falta de empregos e da busca por uma vida melhor. O grande problema nisto é o risco que há nas travessias ilegais, nas condições nas quais as pessoas tentam ir de um país para outro vizinho usando as agitadas águas para tal. Em média seis pessoas morrem por dia na perigosa travessia entre a Turquia e a Grécia. E a BBC publicou fotos que foram tiradas com drones desses imigrantes.</p>
-<p>Mesmo com a existência de iniciativas como a <a href="https://odrones.com.br/drones-resgate-mediterraneo/">ONG MOAS</a> (que já salvou milhares de imigrantes no Mediterrâneo) é impossível evitar as fatalidades que ocorrem no que diz respeito à imigração ilegal, são diversos os perigos que as pessoas podem enfrentar durante ela. Não se limita ao barco, muitas vezes superlotados e sem estrutura para garantir a segurança das pessoas que ali se encontram, afundar; há o risco de se contrair uma doença durante a travessia, o risco da hipotermia por estar em alto mar e a maior parte das tentativas de ida ilegal aos países vizinhos ocorrer de madrugada. A média é de 6 pessoas morrendo por dia ao decidirem correr estes riscos.</p>
+<p>Mesmo com a existência de iniciativas como a <a href="https://odrones.com.br/drones-resgate-mediterraneo/" target="_blank" rel="external">ONG MOAS</a> (que já salvou milhares de imigrantes no Mediterrâneo) é impossível evitar as fatalidades que ocorrem no que diz respeito à imigração ilegal, são diversos os perigos que as pessoas podem enfrentar durante ela. Não se limita ao barco, muitas vezes superlotados e sem estrutura para garantir a segurança das pessoas que ali se encontram, afundar; há o risco de se contrair uma doença durante a travessia, o risco da hipotermia por estar em alto mar e a maior parte das tentativas de ida ilegal aos países vizinhos ocorrer de madrugada. A média é de 6 pessoas morrendo por dia ao decidirem correr estes riscos.</p>
 <div class="figure fig-100 center" style="width:;"><img class="fig-img" src="/images/BBC-Mostra-Imigrantes.jpg" alt="Fotos da BBC mostra a travessia de imigrantes na Europa"><span class="caption">Fotos da BBC mostra a travessia de imigrantes na Europa</span></div>
 <p>As imagens capturadas por um drone e divulgadas pela BBC mostra a quantidade de pessoas que estavam envolvidas em apenas um evento de travessia ilegal de imigrantes entre a Turquia e a Grécia, e é notável as condições nas quais eles estavam. Atualmente, a Turquia já está abrigando mais de 2 milhões de refugiados sírios e iraquianos. Recentemente foi noticiado que muitos deles foram obrigados a passar a noite ao céu aberto por terem sidos impedidos pela polícia de entrar na <a href="http://europa.eu/index_pt.htm" target="_blank" rel="external">União Européia</a>, e segundo relatos dos imigrantes, que estavam lá, diversos policiais estavam equipados com armas de choque e preparados para utilizar em qualquer um que tentasse passar o bloqueio.</p>
 <p>É comovente as palavras que os imigrantes falam em suas entrevistas, como recentemente falou <em>Saleh</em>, um engenheiro eletrônico da cidade síria de Aleppo, de apenas 25 anos: &#8220;Sou jovem, sou forte, se conseguir chegar à Europa talvez consiga uma vida. Nós temos diplomas, nós temos educação, não há nada para nós na Turquia&#8221;. Ao vermos alguém falar que existe a possibilidade de conseguir uma vida, somos obrigados a imaginar a situação em que eles estão vivendo atualmente, até porque eles estão se arriscando, mesmo sabendo dos riscos, para conseguir a tão desejada vida que eles merecem. Mesmo sabendo que eles estão indo para procurar emprego e estabelecer uma vida, uma situação estável para suas famílias, existe uma situação extremamente delicada do ponto de vista dos governos envolvidos. Ainda mais depois da crise econômica que afetou gravemente a Grécia.</p>
@@ -403,23 +403,23 @@
     
     </summary>
     
-      <category term="Notícias" scheme="https://odrones.com.br/categories/Noticias/"/>
+      <category term="Notícias" scheme="http://localhost:4000/categories/Noticias/"/>
     
     
-      <category term="Grécia" scheme="https://odrones.com.br/tags/Grecia/"/>
+      <category term="Grécia" scheme="http://localhost:4000/tags/Grecia/"/>
     
-      <category term="imigrantes" scheme="https://odrones.com.br/tags/imigrantes/"/>
+      <category term="imigrantes" scheme="http://localhost:4000/tags/imigrantes/"/>
     
-      <category term="Travessia" scheme="https://odrones.com.br/tags/Travessia/"/>
+      <category term="Travessia" scheme="http://localhost:4000/tags/Travessia/"/>
     
-      <category term="Turquia" scheme="https://odrones.com.br/tags/Turquia/"/>
+      <category term="Turquia" scheme="http://localhost:4000/tags/Turquia/"/>
     
   </entry>
   
   <entry>
     <title>Invisíveis serão os drones americanos</title>
-    <link href="https://odrones.com.br/invisiveis-americanos/"/>
-    <id>https://odrones.com.br/invisiveis-americanos/</id>
+    <link href="http://localhost:4000/invisiveis-americanos/"/>
+    <id>http://localhost:4000/invisiveis-americanos/</id>
     <published>2015-09-24T17:07:20.000Z</published>
     <updated>2017-02-28T14:57:41.684Z</updated>
     
@@ -440,21 +440,21 @@
     
     </summary>
     
-      <category term="Notícias" scheme="https://odrones.com.br/categories/Noticias/"/>
+      <category term="Notícias" scheme="http://localhost:4000/categories/Noticias/"/>
     
     
-      <category term="drones" scheme="https://odrones.com.br/tags/drones/"/>
+      <category term="drones" scheme="http://localhost:4000/tags/drones/"/>
     
-      <category term="americanos" scheme="https://odrones.com.br/tags/americanos/"/>
+      <category term="americanos" scheme="http://localhost:4000/tags/americanos/"/>
     
-      <category term="Invisíveis" scheme="https://odrones.com.br/tags/Invisiveis/"/>
+      <category term="Invisíveis" scheme="http://localhost:4000/tags/Invisiveis/"/>
     
   </entry>
   
   <entry>
     <title>Festa de Agosto de São Roque por outro ângulo</title>
-    <link href="https://odrones.com.br/festa-de-agosto-sao-roque/"/>
-    <id>https://odrones.com.br/festa-de-agosto-sao-roque/</id>
+    <link href="http://localhost:4000/festa-de-agosto-sao-roque/"/>
+    <id>http://localhost:4000/festa-de-agosto-sao-roque/</id>
     <published>2015-09-24T08:51:52.000Z</published>
     <updated>2017-02-28T14:55:47.147Z</updated>
     
@@ -477,19 +477,19 @@
     
     </summary>
     
-      <category term="Notícias" scheme="https://odrones.com.br/categories/Noticias/"/>
+      <category term="Notícias" scheme="http://localhost:4000/categories/Noticias/"/>
     
     
-      <category term="Festa de Agosto" scheme="https://odrones.com.br/tags/Festa-de-Agosto/"/>
+      <category term="Festa de Agosto" scheme="http://localhost:4000/tags/Festa-de-Agosto/"/>
     
-      <category term="São Roque" scheme="https://odrones.com.br/tags/Sao-Roque/"/>
+      <category term="São Roque" scheme="http://localhost:4000/tags/Sao-Roque/"/>
     
   </entry>
   
   <entry>
     <title>Ponte feita por drones: o futuro da construção civil?</title>
-    <link href="https://odrones.com.br/ponte-futuro-construcao-civil/"/>
-    <id>https://odrones.com.br/ponte-futuro-construcao-civil/</id>
+    <link href="http://localhost:4000/ponte-futuro-construcao-civil/"/>
+    <id>http://localhost:4000/ponte-futuro-construcao-civil/</id>
     <published>2015-09-22T19:16:25.000Z</published>
     <updated>2017-02-28T14:59:49.487Z</updated>
     
@@ -500,9 +500,9 @@
 <p>Segundo o <em>Gramazio Kohler Research</em> é um novo campo que está surgindo: o da construção civil com drones. Ela surge graças aos avanços de sensores, da computação e de controle, e permitiu a construção de veículos autônomos capazes de executar tarefas complicadas em ambientes &#8220;desestruturados&#8221;. A interdisciplinariedade é notável neste caso, a forma como a pesquisa sugeriu a disposição da ponte, algo que nos remete muito às competições de construção de pontes com palito de sorvete em que ganhava a ponte que conseguisse aguentar mais peso, a arquitetura na hora de decidir qual material seria usado e o uso dos robôs voadores na hora de colocar a mão na massa, ou melhor dizendo as asas.</p>
 <div class="figure fig-100 center" style="width:;"><img class="fig-img" src="/images/ponte-construida-drones.jpg" alt="Construção civil revolucionada: ponte construída por drones"><span class="caption">Construção civil revolucionada: ponte construída por drones</span></div>
 <p>Tradicionalmente, as máquinas sempre deram assistência à construção civil e limitava-se apenas à assistência. Enquanto em contraste os drones são capazes de executar movimentos no ambiente e entre os objetos que nele se encontra; desviar de obstáculos; carregar materiais; efetuar descobertas e realizar diversas atividades na hora de construir, pois não possui as mesmas limitações que as máquinas tradicionais &#8211; que apenas davam assistência, e devemos aproveitar destas capacidades dos veículos aéreos não tripulados.</p>
-<p>Mas para um melhor aproveitamento devemos levar em conta que ainda deve ser desenvolvido materiais mais leves para que drones de pequeno e médio porte possam carregar, e não esquecendo de todos os fatores que devem ser levados em conta no ramo da construção civil: estabilidade, resistência, durabilidade, etc; deve-se ser repensado o processo de construção como um todo para ver como os drones podem trabalhar em conjunto com o ser humano, para não haverem riscos e a cooperatividade no trabalho ser produtiva, é como se eles fossem <a href="https://odrones.com.br/danca-com-drones-quem-sabe-um-futuro-filme/">dançar com os drones</a>; além de que é necessário adaptar e desenvolver uma estratégia para a interação entre o drone e o material de construção que for utilizado, e com as tarefas de construção que serão designadas a ele.</p>
+<p>Mas para um melhor aproveitamento devemos levar em conta que ainda deve ser desenvolvido materiais mais leves para que drones de pequeno e médio porte possam carregar, e não esquecendo de todos os fatores que devem ser levados em conta no ramo da construção civil: estabilidade, resistência, durabilidade, etc; deve-se ser repensado o processo de construção como um todo para ver como os drones podem trabalhar em conjunto com o ser humano, para não haverem riscos e a cooperatividade no trabalho ser produtiva, é como se eles fossem <a href="https://odrones.com.br/danca-com-drones-quem-sabe-um-futuro-filme/" target="_blank" rel="external">dançar com os drones</a>; além de que é necessário adaptar e desenvolver uma estratégia para a interação entre o drone e o material de construção que for utilizado, e com as tarefas de construção que serão designadas a ele.</p>
 <p>O projeto deixa claro que os drones podem entrar, e provavelmente terão a sua participação garantida, na construção civil no futuro. Mas ainda há muito o que se desenvolver e pesquisar para garantir que esta entrada seja proveitosa e que não apresente riscos às pessoas envolvidas. Sabemos que não é recomendado o uso de drones em ambientes com grande aglomerações de pessoas e em ambientes fechados, e neste ponto deve-se haver uma grande evolução dos sensores para garantir a segurança de qualquer um próximo a eles. O vídeo foi gravado em um ambiente fechado chamado <em><a href="http://flyingmachinearena.org/" target="_blank" rel="external">Flying Machine Arena</a></em>, que é um espaço destinado à pesquisa com drones no <em>Institute for Dynamic Systems and Control</em>.</p>
-<p>Apesar de todos os pontos que ainda devem ser considerados podemos dizer que: <em>&#8220;é um pequeno passo para o homem, mas um grande salto para a humanidade&#8221;</em>. Os drones estão revolucionando diversos setores no mercado, desde as <a href="https://odrones.com.br/entrega-drones-brasil-opinando/">entregas de produtos</a> até o <a href="https://odrones.com.br/drones-resgate-mediterraneo/">resgate de imigrantes no Mediterrâneo</a>, e podemos esperar que nos próximos anos veremos os drones participando ativamente na área de construção civil, e certamente não será apenas para construir pequenas pontes em ambientes fechados.</p>]]></content>
+<p>Apesar de todos os pontos que ainda devem ser considerados podemos dizer que: <em>&#8220;é um pequeno passo para o homem, mas um grande salto para a humanidade&#8221;</em>. Os drones estão revolucionando diversos setores no mercado, desde as <a href="https://odrones.com.br/entrega-drones-brasil-opinando/" target="_blank" rel="external">entregas de produtos</a> até o <a href="https://odrones.com.br/drones-resgate-mediterraneo/" target="_blank" rel="external">resgate de imigrantes no Mediterrâneo</a>, e podemos esperar que nos próximos anos veremos os drones participando ativamente na área de construção civil, e certamente não será apenas para construir pequenas pontes em ambientes fechados.</p>]]></content>
     
     <summary type="html">
     
@@ -510,21 +510,21 @@
     
     </summary>
     
-      <category term="Notícias" scheme="https://odrones.com.br/categories/Noticias/"/>
+      <category term="Notícias" scheme="http://localhost:4000/categories/Noticias/"/>
     
     
-      <category term="civil" scheme="https://odrones.com.br/tags/civil/"/>
+      <category term="civil" scheme="http://localhost:4000/tags/civil/"/>
     
-      <category term="construção" scheme="https://odrones.com.br/tags/construcao/"/>
+      <category term="construção" scheme="http://localhost:4000/tags/construcao/"/>
     
-      <category term="Ponte" scheme="https://odrones.com.br/tags/Ponte/"/>
+      <category term="Ponte" scheme="http://localhost:4000/tags/Ponte/"/>
     
   </entry>
   
   <entry>
     <title>Guia passo-a-passo para comprar um drone</title>
-    <link href="https://odrones.com.br/guia-para-comprar-drone/"/>
-    <id>https://odrones.com.br/guia-para-comprar-drone/</id>
+    <link href="http://localhost:4000/guia-para-comprar-drone/"/>
+    <id>http://localhost:4000/guia-para-comprar-drone/</id>
     <published>2015-09-20T21:29:20.000Z</published>
     <updated>2017-02-28T14:56:31.590Z</updated>
     
@@ -534,7 +534,7 @@
 <h2 id="Por-que-eu-deveria-comprar-um-drone"><a href="#Por-que-eu-deveria-comprar-um-drone" class="headerlink" title="Por que eu deveria comprar um drone?"></a>Por que eu deveria comprar um drone?</h2><p>Costuma-se dizer que os drones é o voo de primeira classe mais barato que você pode pegar sem sair do solo. Com ele você fará voos incríveis, além de que você não será apenas um passageiro, e mero observador da ação, você é que estará no controle e fará as decisões e sentirá toda a emoção. Isso porque ainda nem falamos das inacreditáveis imagens que você pode fazer com o seu veículo aéreo não tripulado.</p>
 <p>A maior parte dos modelos destinados à recreação são pequenos e podem ser levados em um carro, na moto e até mesmo na mão quando você adquirir, ou se vier de brinde na hora da sua compra, alguma caixa especial/mochila – sim, existem algumas mochilas no mercado que foram feitas para carregar drones, há um espaço destinado, todo o acabamento é feito para evitar impactos e dano e possui a toda a facilidade de carregar que uma mochila oferece. E já estamos acostumados a carregar mochilas desde os nossos primeiros anos escolares.</p>
 <div class="figure fig-100 center" style="width:;"><img class="fig-img" src="/images/criança-indo-escola.jpg" alt="Criança indo para a escola"><span class="caption">Criança indo para a escola</span></div>
-<p>Hoje em dia há vários modelos destinado aos iniciantes, eles são mais baratos e possuem potencial suficiente àqueles que desejam apenas achar um passatempo e um hobby, mas independentemente do motivo pelo qual você quer adquirir um drone leia este guia e saiba no que pensar antes de comprar um. Temos uma matéria sobre eles aqui no <strong>ODrones</strong>: <a href="https://odrones.com.br/melhores-modelos-iniciantes/"><em>Drone para iniciantes: qual o melhor modelo?</em></a>.</p>
+<p>Hoje em dia há vários modelos destinado aos iniciantes, eles são mais baratos e possuem potencial suficiente àqueles que desejam apenas achar um passatempo e um hobby, mas independentemente do motivo pelo qual você quer adquirir um drone leia este guia e saiba no que pensar antes de comprar um. Temos uma matéria sobre eles aqui no <strong>ODrones</strong>: <a href="https://odrones.com.br/melhores-modelos-iniciantes/" target="_blank" rel="external"><em>Drone para iniciantes: qual o melhor modelo?</em></a>.</p>
 <p>Os drones nos dão a sensação de liberdade e nos permite ir onde apenas os pássaros iam, está certo que desde o 14-bis o homem já consegue voar (não entraremos neste guia na discussão se foi o Santos Dummont ou não que inventou o primeiro a conseguir tirar os pés do chão em um objeto mais pesado que o ar), mas os drones vão além e nos permitem mudar facilmente o nosso destino, rumo e rota e com uma velocidade e precisão única.</p>
 <h2 id="Quem-deve-comprar-um-drone"><a href="#Quem-deve-comprar-um-drone" class="headerlink" title="Quem deve comprar um drone?"></a>Quem deve comprar um drone?</h2><p>Se você, como eu, na sua infância era apaixonado pelos brinquedos de controle remoto, nunca me esqueço da felicidade que foi quando os meus pais realizaram o meu sonho de ter um avião de controle remoto, você já deveria ter adquirido um dos diversos modelos disponíveis, mas o lado bom de você ainda não ter adquirido é que você poderá ler este guia antes.</p>
 <div class="figure fig-100 center" style="width:;"><img class="fig-img" src="/images/controle-remoto-colecao.jpg" alt="Coleção de controle remoto"><span class="caption">Coleção de controle remoto</span></div>
@@ -546,7 +546,7 @@
 </li>
 <li><p>Estando a disposição do governo, e prestando serviço de fiscalização de áreas de preservação permanente, garantindo a sobrevivência das nossas belezas naturais e a nossa própria sobrevivência;</p>
 </li>
-<li><p>Fazendo entregas, como a <i><a href="https://www.amazon.com/" target="_blank" rel="external">Amazon</a></i> demonstrou interesse em fazer com a sua <a href="https://odrones.com.br/amazon-patente-drone-seguidor/">patente do drone seguidor</a>, ou os <a href="https://odrones.com.br/drones-carteiros/">carteiros na Suíça</a>;</p>
+<li><p>Fazendo entregas, como a <i><a href="https://www.amazon.com/" target="_blank" rel="external">Amazon</a></i> demonstrou interesse em fazer com a sua <a href="https://odrones.com.br/amazon-patente-drone-seguidor/" target="_blank" rel="external">patente do drone seguidor</a>, ou os <a href="https://odrones.com.br/drones-carteiros/" target="_blank" rel="external">carteiros na Suíça</a>;</p>
 </li>
 <li><p>Oferecendo serviço às emissoras de televisão, e produtoras de filmes, em fazer tomadas únicas e por um ângulo especial, como já relatamos o caso de uma empresa que fez tomadas à Rede Globo de televisão e após isso foi destaque em vários jornais por conta da qualidade do seu serviço, sendo usada como exemplo ao se falar sobre a expansão dos drones;</p>
 </li>
@@ -572,7 +572,7 @@
 <h3 id="Preco"><a href="#Preco" class="headerlink" title="Preço"></a>Preço</h3><p>O segundo fator que você deve levar em conta antes de comprar o seu drone é o seu preço, além de colocar na ponta do lápis e/ou na calculadora outros gastos importantes, como: <strong>protetor de hélice</strong>, <strong>gimbal</strong>, <strong>baterias extras</strong>, etc. Existem alguns modelos com câmeras com capacidade de filmar em HD e tirar fotos com alguns megapixels por cerca de 300 reais, uma opção a ser considerada se você estiver adquirindo apenas como um passatempo. Mas se você está fazendo uma aquisição pensando em criar um negócio, o investimento será um pouco maior.</p>
 <p>É necessário <strong>pesquisar</strong> e <strong>pensar</strong> previamente no <strong>uso</strong> que você fará do seu drone. A dica que eu dou é pesquisar pelos atributos técnicos do modelo pelo qual você está interessado, para ver se o valor vale a pena e se ele se encaixa no uso que você fará. Veja em especial: a <strong>qualidade da câmera</strong>, a <strong>duração da bateria</strong>, o <strong>alcance do sinal</strong> do controle e procure por vídeos e relatos de usuários na internet.</p>
 <h3 id="Durabilidade"><a href="#Durabilidade" class="headerlink" title="Durabilidade"></a>Durabilidade</h3><p>A durabilidade é um fator a se considerar, embora boa parte diga respeito ao voo consciente e responsável, você certamente não vai querer comprar um drone “descartável” que em poucas semanas de uso apresenta vários sinais de uso, dano, ou até mesmo não voa.</p>
-<p>Você certamente não quer fazer como o americano que deixou um amigo seu, bêbado, controlar o seu drone e terminou com ele preso no telhado em um lugar de impossível acesso. Calma, não é uma história triste que estou contando, ele resgatou seu drone usando outro drone: <a href="https://odrones.com.br/resgate-entre-drones/">resgate entre drones é sucesso na internet</a>.<br></p><p></p>
+<p>Você certamente não quer fazer como o americano que deixou um amigo seu, bêbado, controlar o seu drone e terminou com ele preso no telhado em um lugar de impossível acesso. Calma, não é uma história triste que estou contando, ele resgatou seu drone usando outro drone: <a href="https://odrones.com.br/resgate-entre-drones/" target="_blank" rel="external">resgate entre drones é sucesso na internet</a>.<br></p><p></p>
 <h3 id="Voo"><a href="#Voo" class="headerlink" title="Voo"></a>Voo</h3><p>É importante considerar o atributo voo de um drone antes de voar, bem como outros fatores envolvidos a estabilidade; seu peso; sua bateria; se possui luzes para voos noturnos; se é possível fazer voos dentro de ambientes fechados, etc.</p>
 <p>Muitas pessoas acabam perdendo drones por acreditarem que elas naturalmente pegaram o controle, após carregar a bateria do seu drone, e em seu primeiro voo já conseguirá fazer manobras e apostar corrida com pilotos profissionais, e eu digo: NÃO se iluda. Aprender a controlar um drone é uma atividade que demanda de algum tempo, e <strong>você só aprende a voar com ele voando</strong>. A dica que eu dou é: nos primeiros voos não exagere na altura, não perca o drone de vista, e não voe em lugares fechados, como a sala da sua casa, além de ressaltar que deve evitar lugares com grande aglomerado de pessoas.</p>
 <p>Há diversos relatos na internet de pessoas que foram voar pela primeira vez, modelos de grandes marcas e de qualidade inquestionável, e que acabaram danificaram totalmente o drone, fazendo com que ele nem levantasse voo. E acredite em mim, há poucas pessoas com habilidade suficiente para prestar conserto em drones no Brasil, pelo menos por enquanto. E você não vai querer sentir a frustração de ver o seu drone partindo durante o voo.</p>]]></content>
@@ -583,21 +583,21 @@
     
     </summary>
     
-      <category term="Artigos" scheme="https://odrones.com.br/categories/Artigos/"/>
+      <category term="Artigos" scheme="http://localhost:4000/categories/Artigos/"/>
     
     
-      <category term="drone" scheme="https://odrones.com.br/tags/drone/"/>
+      <category term="drone" scheme="http://localhost:4000/tags/drone/"/>
     
-      <category term="comprar" scheme="https://odrones.com.br/tags/comprar/"/>
+      <category term="comprar" scheme="http://localhost:4000/tags/comprar/"/>
     
-      <category term="guia" scheme="https://odrones.com.br/tags/guia/"/>
+      <category term="guia" scheme="http://localhost:4000/tags/guia/"/>
     
   </entry>
   
   <entry>
     <title>Drone Legal: Voando com Segurança</title>
-    <link href="https://odrones.com.br/drone-legal/"/>
-    <id>https://odrones.com.br/drone-legal/</id>
+    <link href="http://localhost:4000/drone-legal/"/>
+    <id>http://localhost:4000/drone-legal/</id>
     <published>2015-09-06T01:24:02.000Z</published>
     <updated>2017-02-28T14:52:18.536Z</updated>
     
@@ -612,7 +612,7 @@
 <p>“Hoje, a ANAC coloca em consulta pública a proposta de regulamentação do assunto e nós, Secretaria de Aviação, estamos lançando uma campanha de conscientização do uso da nova tecnologia”, comemorou o ministro citando a campanha <b>Drone Legal </b>e a consulta pública sobre a regulamentação dos drones.</p>
 <p>Desde fevereiro, deste ano, o grupo vem realizando várias reuniões, e com frequência, com o objetivo de promover a entrada dos drones nos nossos ares de forma harmônica e segura, por meio da atualização da regulamentação da aviação civil e lançamento de uma específica para os drones, ações de fiscalização e campanhas de conscientização da população.</p>
 <p>É importante destacar que o assunto é novo no mundo inteiro e ainda não há regulamentação detalhada que englobe todos os usos, características, funções, necessidades, restrições, funcionalidades e riscos dessa atividade cada vez mais popular e avançada.</p>
-<p>No Brasil, existem casos de sucesso do uso das aeronaves no <a href="https://odrones.com.br/dengue-novo-inimigo-drones/">combate à dengue</a>, segurança pública, <a href="https://odrones.com.br/drone-investiga-floresta-amazonica/">monitoramento florestal</a>, suporte aéreo de <a href="https://odrones.com.br/drones-resgate-mediterraneo/">buscas e salvamento</a>, entre outros.</p>]]></content>
+<p>No Brasil, existem casos de sucesso do uso das aeronaves no <a href="https://odrones.com.br/dengue-novo-inimigo-drones/" target="_blank" rel="external">combate à dengue</a>, segurança pública, <a href="https://odrones.com.br/drone-investiga-floresta-amazonica/" target="_blank" rel="external">monitoramento florestal</a>, suporte aéreo de <a href="https://odrones.com.br/drones-resgate-mediterraneo/" target="_blank" rel="external">buscas e salvamento</a>, entre outros.</p>]]></content>
     
     <summary type="html">
     
@@ -620,25 +620,25 @@
     
     </summary>
     
-      <category term="Notícias" scheme="https://odrones.com.br/categories/Noticias/"/>
+      <category term="Notícias" scheme="http://localhost:4000/categories/Noticias/"/>
     
     
-      <category term="Brasil" scheme="https://odrones.com.br/tags/Brasil/"/>
+      <category term="Brasil" scheme="http://localhost:4000/tags/Brasil/"/>
     
-      <category term="Campanha" scheme="https://odrones.com.br/tags/Campanha/"/>
+      <category term="Campanha" scheme="http://localhost:4000/tags/Campanha/"/>
     
-      <category term="Conscientização" scheme="https://odrones.com.br/tags/Conscientizacao/"/>
+      <category term="Conscientização" scheme="http://localhost:4000/tags/Conscientizacao/"/>
     
-      <category term="Drone Legal" scheme="https://odrones.com.br/tags/Drone-Legal/"/>
+      <category term="Drone Legal" scheme="http://localhost:4000/tags/Drone-Legal/"/>
     
-      <category term="Regulamentação" scheme="https://odrones.com.br/tags/Regulamentacao/"/>
+      <category term="Regulamentação" scheme="http://localhost:4000/tags/Regulamentacao/"/>
     
   </entry>
   
   <entry>
     <title>Measure e seu enxame são aprovados pela FAA</title>
-    <link href="https://odrones.com.br/measure-seu-enxame-aprovados/"/>
-    <id>https://odrones.com.br/measure-seu-enxame-aprovados/</id>
+    <link href="http://localhost:4000/measure-seu-enxame-aprovados/"/>
+    <id>http://localhost:4000/measure-seu-enxame-aprovados/</id>
     <published>2015-09-03T04:36:57.000Z</published>
     <updated>2017-02-28T14:58:01.155Z</updated>
     
@@ -647,7 +647,7 @@
 <div class="figure fig-100 center" style="width:;"><img class="fig-img" src="/images/measure-faa.png" alt="Measure e seus drones comerciais são aprovados pela FAA"><span class="caption">Measure e seus drones comerciais são aprovados pela FAA</span></div>
 <p>Embora algumas pessoas possam não pensar, no primeiro momento, que este total de 324 veículos aéreos não tripulados não seja algo considerável, por conta dos números enormes que nos rodeiam diariamente, na internet; nos noticíarios; no nosso trabalho etc, mas é uma das maiores aprovações até agora.</p>
 <p>Vale lembrar que um ano atrás a utilização de drones para fins comerciais era mais uma ideia do que realidade. Em 2014 havia apenas duas empresas autorizadas pela FAA a utilizar os drones para fins comerciais, e elas estavam localizadas no extremo norte do Alasca. As mudanças ocorridas, no que diz respeito aos veículos aéreos não tripulados, foram drásticas, no mesmo país em que antes havia apenas 2 empresas podendo legalmente utilizar os drones para fins comerciais, há hoje mais de 1000 possíveis usos autorizados para os pilotos e empresas interessadas.</p>
-<p>A ideia por trás da <i>Measure</i> não é utilizar os drones para fazer entregas, como fará a <a href="https://odrones.com.br/amazon-patente-drone-seguidor/">Amazon com sua patente do drone seguidor</a>, nem para criar uma partida de futebol improvável como feito pela <em><a href="https://odrones.com.br/futebol-gracas-ao-drone/">Pepsi</a></em> e nem mesmo para criar uma coreografia e colocar os <a href="https://odrones.com.br/danca-com-drones-quem-sabe-um-futuro-filme/">veículos aéreos para fazer par com um dançarino</a>, como o projeto do pessoal da <em>CollMot</em>. A ideia deles, é utilizar os drones para mensurar e coletar dados, de forma precisa e de baixo custo.</p>
+<p>A ideia por trás da <i>Measure</i> não é utilizar os drones para fazer entregas, como fará a <a href="https://odrones.com.br/amazon-patente-drone-seguidor/" target="_blank" rel="external">Amazon com sua patente do drone seguidor</a>, nem para criar uma partida de futebol improvável como feito pela <em><a href="https://odrones.com.br/futebol-gracas-ao-drone/" target="_blank" rel="external">Pepsi</a></em> e nem mesmo para criar uma coreografia e colocar os <a href="https://odrones.com.br/danca-com-drones-quem-sabe-um-futuro-filme/" target="_blank" rel="external">veículos aéreos para fazer par com um dançarino</a>, como o projeto do pessoal da <em>CollMot</em>. A ideia deles, é utilizar os drones para mensurar e coletar dados, de forma precisa e de baixo custo.</p>
 <p>A startup com sede em Washington, DC, já operava como uma empresa de consultoria e serviços, que junto com seus clientes levantava informações sobre como os drones poderia ajuda-lós, facilitar algumas tarefas, e até expandir seus negócios. Várias indústrias já vinham fazendo uso, e colhendo os benefícios, da fotografia aérea e de outros dados que os veículos aéreos não tripulados podem fornecer, alguns exemplos são a agricultura; indústrias de petróleo e gás; e até algumas companhias de seguro. Os dados providos por eles são valiosos e, em algumas situações, essenciais.</p>
 <p>Segundo notícia da <i><a href="http://money.cnn.com/2015/09/01/technology/faa-commercial-drones-measure/" target="_blank" rel="external">Cable News Network</a></i> (CNN), conhecido canal a cabo de notícias norte-americano, entre os clientes que já haviam procurado a <i>Measure</i> estão a <i>Boeing</i>, <i>IBM</i>, <i>UPS</i>, e até a Cruz Vermelha estadunidense.</p>
 <p>As empresas que desejam fazer uso comercial dos drones devem solicitar a aprovação da FAA e respeitar várias regras que são impostas para garantir a segurança do cidadão, entre essas está a de que o operador humano não pode perder o veículo de vista, devendo sempre permanecer no seu raio de visão. E são regras como essa que têm tornado difícil às empresas iniciarem suas atividades com os drones, é fácil perceber como esta imposição dificulta empresas, como a <i>Amazon</i>, a iniciar seu serviço de entregas.</p>
@@ -660,23 +660,23 @@
     
     </summary>
     
-      <category term="Notícias" scheme="https://odrones.com.br/categories/Noticias/"/>
+      <category term="Notícias" scheme="http://localhost:4000/categories/Noticias/"/>
     
     
-      <category term="FAA" scheme="https://odrones.com.br/tags/FAA/"/>
+      <category term="FAA" scheme="http://localhost:4000/tags/FAA/"/>
     
-      <category term="aprovados" scheme="https://odrones.com.br/tags/aprovados/"/>
+      <category term="aprovados" scheme="http://localhost:4000/tags/aprovados/"/>
     
-      <category term="enxame" scheme="https://odrones.com.br/tags/enxame/"/>
+      <category term="enxame" scheme="http://localhost:4000/tags/enxame/"/>
     
-      <category term="Measure" scheme="https://odrones.com.br/tags/Measure/"/>
+      <category term="Measure" scheme="http://localhost:4000/tags/Measure/"/>
     
   </entry>
   
   <entry>
     <title>Vulnerabilidades em drones da Parrot</title>
-    <link href="https://odrones.com.br/vulnerabilidades-parrot/"/>
-    <id>https://odrones.com.br/vulnerabilidades-parrot/</id>
+    <link href="http://localhost:4000/vulnerabilidades-parrot/"/>
+    <id>http://localhost:4000/vulnerabilidades-parrot/</id>
     <published>2015-08-31T05:36:33.000Z</published>
     <updated>2017-02-28T15:01:57.706Z</updated>
     
@@ -700,21 +700,21 @@
     
     </summary>
     
-      <category term="Artigos" scheme="https://odrones.com.br/categories/Artigos/"/>
+      <category term="Artigos" scheme="http://localhost:4000/categories/Artigos/"/>
     
     
-      <category term="hackers" scheme="https://odrones.com.br/tags/hackers/"/>
+      <category term="hackers" scheme="http://localhost:4000/tags/hackers/"/>
     
-      <category term="parrot" scheme="https://odrones.com.br/tags/parrot/"/>
+      <category term="parrot" scheme="http://localhost:4000/tags/parrot/"/>
     
-      <category term="vulnerabilidades" scheme="https://odrones.com.br/tags/vulnerabilidades/"/>
+      <category term="vulnerabilidades" scheme="http://localhost:4000/tags/vulnerabilidades/"/>
     
   </entry>
   
   <entry>
     <title>Dymm – Empreendedorismo e Drones</title>
-    <link href="https://odrones.com.br/dymm-empreendedorismo-drones/"/>
-    <id>https://odrones.com.br/dymm-empreendedorismo-drones/</id>
+    <link href="http://localhost:4000/dymm-empreendedorismo-drones/"/>
+    <id>http://localhost:4000/dymm-empreendedorismo-drones/</id>
     <published>2015-08-25T17:13:41.000Z</published>
     <updated>2017-02-28T14:54:56.624Z</updated>
     
@@ -736,21 +736,21 @@
     
     </summary>
     
-      <category term="Notícias" scheme="https://odrones.com.br/categories/Noticias/"/>
+      <category term="Notícias" scheme="http://localhost:4000/categories/Noticias/"/>
     
     
-      <category term="Dymm" scheme="https://odrones.com.br/tags/Dymm/"/>
+      <category term="Dymm" scheme="http://localhost:4000/tags/Dymm/"/>
     
-      <category term="empreendedorismo" scheme="https://odrones.com.br/tags/empreendedorismo/"/>
+      <category term="empreendedorismo" scheme="http://localhost:4000/tags/empreendedorismo/"/>
     
-      <category term="entrevista" scheme="https://odrones.com.br/tags/entrevista/"/>
+      <category term="entrevista" scheme="http://localhost:4000/tags/entrevista/"/>
     
   </entry>
   
   <entry>
     <title>Invasão de privacidade via drones em praia nudista</title>
-    <link href="https://odrones.com.br/invasao-de-privacidade-praia-nudista/"/>
-    <id>https://odrones.com.br/invasao-de-privacidade-praia-nudista/</id>
+    <link href="http://localhost:4000/invasao-de-privacidade-praia-nudista/"/>
+    <id>http://localhost:4000/invasao-de-privacidade-praia-nudista/</id>
     <published>2015-07-28T15:57:11.000Z</published>
     <updated>2017-02-28T14:57:32.632Z</updated>
     
@@ -768,29 +768,29 @@
     
     </summary>
     
-      <category term="Notícias" scheme="https://odrones.com.br/categories/Noticias/"/>
+      <category term="Notícias" scheme="http://localhost:4000/categories/Noticias/"/>
     
     
-      <category term="Invasão" scheme="https://odrones.com.br/tags/Invasao/"/>
+      <category term="Invasão" scheme="http://localhost:4000/tags/Invasao/"/>
     
-      <category term="nudista" scheme="https://odrones.com.br/tags/nudista/"/>
+      <category term="nudista" scheme="http://localhost:4000/tags/nudista/"/>
     
-      <category term="praia" scheme="https://odrones.com.br/tags/praia/"/>
+      <category term="praia" scheme="http://localhost:4000/tags/praia/"/>
     
-      <category term="privacidade" scheme="https://odrones.com.br/tags/privacidade/"/>
+      <category term="privacidade" scheme="http://localhost:4000/tags/privacidade/"/>
     
   </entry>
   
   <entry>
     <title>Samsung anuncia novo projeto envolvendo drones</title>
-    <link href="https://odrones.com.br/samsung-projeto-envolvendo-drones/"/>
-    <id>https://odrones.com.br/samsung-projeto-envolvendo-drones/</id>
+    <link href="http://localhost:4000/samsung-projeto-envolvendo-drones/"/>
+    <id>http://localhost:4000/samsung-projeto-envolvendo-drones/</id>
     <published>2015-07-28T02:51:59.000Z</published>
     <updated>2017-02-28T15:00:52.809Z</updated>
     
     <content type="html"><![CDATA[<!-- excerpt --></p>
 <p>Após a selfie do Oscar, tirada pelo ator Bradley Cooper com um <em>Samsung Galaxy Note 3</em>, tornar o ato de tirar uma autofotografia um sucesso, diversas empresas começaram a descobrir como poderiam faturar com tal. E quem sabe, até passar o valor estimado da fotografia tirada em um dos eventos mais mediáticos do mundo, que segundo a empresa Publicis <a href="http://www1.folha.uol.com.br/ilustrada/2014/04/1437851-selfie-do-oscar-vale-r-22-bilhoes-diz-especialista-em-marketing.shtml" target="_blank" rel="external">vale cerca de 2 bilhões de reais</a>.</p>
-<p>E qual a relação disso com os drones? Toda. Esta poderia ser uma nova postagem sobre o <a href="https://odrones.com.br/lily-drone-perfeito/"><i>Lily</i>, o drone perfeito para registrar momentos radicais</a>, mas na verdade é sobre um novo produto anunciado pela <strong>Samsung</strong>, que foi batizado de <strong><em>Project Selfie Camera Drone</em></strong> (projeto de drone-câmera para selfies, em uma tradução literal para o português). Talvez a <em>Samsung</em> pretenda por meio deste seu novo projeto marcar mais algum evento, ou até mesmo lançar uma nova mania, como foi o resultado da participação do Samsung Galaxy Note 3 no evento, em 2014, de gala do Oscar.</p>
+<p>E qual a relação disso com os drones? Toda. Esta poderia ser uma nova postagem sobre o <a href="https://odrones.com.br/lily-drone-perfeito/" target="_blank" rel="external"><i>Lily</i>, o drone perfeito para registrar momentos radicais</a>, mas na verdade é sobre um novo produto anunciado pela <strong>Samsung</strong>, que foi batizado de <strong><em>Project Selfie Camera Drone</em></strong> (projeto de drone-câmera para selfies, em uma tradução literal para o português). Talvez a <em>Samsung</em> pretenda por meio deste seu novo projeto marcar mais algum evento, ou até mesmo lançar uma nova mania, como foi o resultado da participação do Samsung Galaxy Note 3 no evento, em 2014, de gala do Oscar.</p>
 <div class="figure fig-100 center" style="width:;"><img class="fig-img" src="/images/samsung-logo.png" alt="Samsung anuncia entrada no mercado de drones"><span class="caption">Samsung anuncia entrada no mercado de drones</span></div>
 <p>Dada a forma como as coisas estão conectadas, hoje em dia, e com o potencial que a <em>Samsung</em> vem empregando nos seus smartphones e smartwatchs, podemos começar a fantasiar, e tentar prever, o que será este novo produto da empresa. Facilmente podemos imaginar um drone que como o <em><a href="http://www.parrot.com/usa/products/ardrone-2/" target="_blank" rel="external">Parrot Ar Drone</a></em>, é controlado pelo celular, ou quem sabe podemos esperar um pouco mais e ver os relógios inteligentes tendo seu papel no novo lançamento. A Samsung vem surpreendendo com o potencial das câmeras dos seus smartphones, imagine quantos megapixels possuirá um projeto que foi desenvolvido exclusivamente às selfies. Enquanto não há muitas informações, resta imaginar o que será <strong><em>Project Selfie Camera Drone</em></strong><em>.</em></p>
 <p>Desde fevereiro, mesmo que sem muita atenção do público, a Samsung já havia anunciado que havia formado um grupo para dar atenção a novos projetos, algo como o _<a href="https://pt.wikipedia.org/wiki/Google_X_Lab" target="_blank">Google X</a>_, projetos inovadores e mais, digamos, secretos. Mas havia sido comentado de antemão que este grupo teria como alguns pilares a impressão 3D e os veículos com a capacidade de serem autônomos, além de alguns indícios de investimento em tecnologias para hologramas, ou algo do gênero relacionado à telepresença. Considerou-se na internet que o presidente da empresa poderia apresentar o novo modelo da linha Galaxy, o S8, em 2016 sem nem mesmo estar presente fisicamente no evento, mas “tecnologicamente” ele estaria lá.</p>
@@ -802,28 +802,28 @@
     
     </summary>
     
-      <category term="Notícias" scheme="https://odrones.com.br/categories/Noticias/"/>
+      <category term="Notícias" scheme="http://localhost:4000/categories/Noticias/"/>
     
     
-      <category term="selfie" scheme="https://odrones.com.br/tags/selfie/"/>
+      <category term="selfie" scheme="http://localhost:4000/tags/selfie/"/>
     
-      <category term="camera" scheme="https://odrones.com.br/tags/camera/"/>
+      <category term="camera" scheme="http://localhost:4000/tags/camera/"/>
     
-      <category term="samsung" scheme="https://odrones.com.br/tags/samsung/"/>
+      <category term="samsung" scheme="http://localhost:4000/tags/samsung/"/>
     
   </entry>
   
   <entry>
     <title>Rádio Mix FM sorteará 2 drones e 2 GoPro</title>
-    <link href="https://odrones.com.br/radio-mix-fm-sorteara-drones/"/>
-    <id>https://odrones.com.br/radio-mix-fm-sorteara-drones/</id>
+    <link href="http://localhost:4000/radio-mix-fm-sorteara-drones/"/>
+    <id>http://localhost:4000/radio-mix-fm-sorteara-drones/</id>
     <published>2015-07-28T01:54:48.000Z</published>
     <updated>2017-02-28T15:00:14.630Z</updated>
     
     <content type="html"><![CDATA[<!-- excerpt --></p>
 <p>A <a href="http://mixfm.com.br/" target="_blank" rel="external">Rádio Mix FM</a> sorteará esta semana 2 drones e 2 câmeras <a href="https://pt.shop.gopro.com/International/hero4/hero4-black/CHDHX-401.html" target="_blank" rel="external">GoPro 4</a>, atualmente vendida do Brasil por mais de 2 mil reais. Em uma promoção que se iniciou no dia 27 deste mês, no <em>Instagram</em> oficial da rádio, o vencedor será você e mais alguém que você irá decidir.</p>
 <p>Para participar é muito simples, basta seguir a <strong>radiomixfm</strong> no <em>Instagram</em>; curtir a foto da promoção e marcar mais um amigo(a), aquele que você acha que merece partilhar a alegria deste prêmio com você. No primeiro dia de promoção da Rádio Mix FM, já há mais de 22 mil pessoas concorrendo, então é melhor garantir a sua chance neste exato momento, os interessados em participar tem até o dia 31/07/2015 para <strong>seguir</strong>, <strong>curtir</strong> e <strong>marcar,</strong> como manda o regulamento.</p>
-<p><a href="https://odrones.com.br/wp-content/uploads/2015/07/Radio-Mix-Fm1.jpg"><div class="figure fig-100 center" style="width:;"><img class="fig-img" src="/images/Radio-Mix-Fm.jpg" alt="Rádio Mix FM dará 2 drones e 2 GoPro"><span class="caption">Rádio Mix FM dará 2 drones e 2 GoPro</span></div></a></p>
+<p><a href="https://odrones.com.br/wp-content/uploads/2015/07/Radio-Mix-Fm1.jpg" target="_blank" rel="external"><div class="figure fig-100 center" style="width:;"><img class="fig-img" src="/images/Radio-Mix-Fm.jpg" alt="Rádio Mix FM dará 2 drones e 2 GoPro"><span class="caption">Rádio Mix FM dará 2 drones e 2 GoPro</span></div></a></p>
 <p>As únicas condições para participar são: ser uma pessoa física, portanto não é permitida a participação de empresas; residir em território nacional respeitando os limites fronteiriços, em outras palavras morar no Brasil e não pode ser funcionário ou familiar de alguém que trabalha na Rádio Mix FM. Lembrando que qualquer uma dessa condições, bem como qualquer tentativa de fraude no concurso, resultará na desclassificação sem aviso prévio.</p>
 <p>Após seguir os passos, dentro do prazo de 27/07  até 31/07, é só aguardar pois no último dia será divulgado o nome dos contemplados e felizardos vencedores. A previsão da divulgação, por parte da Rádio Mix FM, é que ocorra ao meio dia. E vale ressaltar que o prêmio é pessoal e intransferível e não poderá ser trocado.</p>
 <p>E por último, mas não menos importante, lembre-se de que quando a Rádio Mix FM divulgar o seu nome como vencedor, da promoção que dará 2 drones e 2 GoPro 4, vá ao local retirar seu prêmio no horário em que eles estipularem. Em caso de perda dessa data, não há qualquer tipo de indenização ou ressarcimento.</p>]]></content>
@@ -834,21 +834,21 @@
     
     </summary>
     
-      <category term="Notícias" scheme="https://odrones.com.br/categories/Noticias/"/>
+      <category term="Notícias" scheme="http://localhost:4000/categories/Noticias/"/>
     
     
-      <category term="FM" scheme="https://odrones.com.br/tags/FM/"/>
+      <category term="FM" scheme="http://localhost:4000/tags/FM/"/>
     
-      <category term="GoPro" scheme="https://odrones.com.br/tags/GoPro/"/>
+      <category term="GoPro" scheme="http://localhost:4000/tags/GoPro/"/>
     
-      <category term="Rádio Mix" scheme="https://odrones.com.br/tags/Radio-Mix/"/>
+      <category term="Rádio Mix" scheme="http://localhost:4000/tags/Radio-Mix/"/>
     
   </entry>
   
   <entry>
     <title>Sony entrará no mercado dos drones ainda este ano</title>
-    <link href="https://odrones.com.br/sony-mercado-drones/"/>
-    <id>https://odrones.com.br/sony-mercado-drones/</id>
+    <link href="http://localhost:4000/sony-mercado-drones/"/>
+    <id>http://localhost:4000/sony-mercado-drones/</id>
     <published>2015-07-27T17:54:36.000Z</published>
     <updated>2017-02-28T15:01:02.724Z</updated>
     
@@ -859,7 +859,7 @@
 <p>Desta parceria entre a Sony e a <em>ZMP,</em> surgiu a <strong><em>Aerosense</em>,</strong> uma nova empresa pertencente ao grupo da <em>Sony Corporation</em>. A Sony será responsável por fornecer sua tecnologia já empregada em seus robôs e na captação de imagens, enquanto a <em>ZMP</em> disponibilizará tecnologia para garantir a autonomia dos novos drones.</p>
 <p>Segundo o <em><a href="http://www.wsj.com/articles/sony-to-enter-drone-market-for-business-customers-1437557475" target="_blank" rel="external">Wall Street Journal</a></em> a parceria tem como objetivo criar drones destinados às empresas, e não ao público geral, pelo menos no primeiro momento. Sua intenção é que seus veículos aéreos não tripulados sejam usados em casos de <strong>aferimento,</strong> <strong>inspeções</strong>, <strong>monitoramento</strong> e <strong>vigilância</strong>. Fica fácil imaginar a importância de cada lado nesta parceria, tanto a <em>Sony</em> com seus recursos de captação de imagem como a <em>ZMP</em> com a sua tecnologia autônoma.</p>
 <p>Pelo que anda sendo dito pela internet, os principais clientes potenciais da <em>Sony</em> são empresários do ramo da agricultura, construção civil, indústrias relacionadas ao petróleo e gás. Os primeiros frutos desta parceria devem se tornar público em agosto.</p>
-<p>Vale lembrar que além da <em>Sony</em>, a<a href="https://odrones.com.br/samsung-projeto-envolvendo-drones/"><em> Samsung</em> também anunciou sua entrada na área dos drones</a>. A diferença, neste momento, pelo que se tem divulgado publicamente na internet é que a <em>Samsung</em> entrará com um projeto voltado às pessoas e não, apenas, para as empresas, como efetuará a <em>Sony</em> neste primeiro momento.</p>]]></content>
+<p>Vale lembrar que além da <em>Sony</em>, a<a href="https://odrones.com.br/samsung-projeto-envolvendo-drones/" target="_blank" rel="external"><em> Samsung</em> também anunciou sua entrada na área dos drones</a>. A diferença, neste momento, pelo que se tem divulgado publicamente na internet é que a <em>Samsung</em> entrará com um projeto voltado às pessoas e não, apenas, para as empresas, como efetuará a <em>Sony</em> neste primeiro momento.</p>]]></content>
     
     <summary type="html">
     
@@ -867,12 +867,12 @@
     
     </summary>
     
-      <category term="Notícias" scheme="https://odrones.com.br/categories/Noticias/"/>
+      <category term="Notícias" scheme="http://localhost:4000/categories/Noticias/"/>
     
     
-      <category term="Sony" scheme="https://odrones.com.br/tags/Sony/"/>
+      <category term="Sony" scheme="http://localhost:4000/tags/Sony/"/>
     
-      <category term="ZMP" scheme="https://odrones.com.br/tags/ZMP/"/>
+      <category term="ZMP" scheme="http://localhost:4000/tags/ZMP/"/>
     
   </entry>
   
