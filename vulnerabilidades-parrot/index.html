@@ -1,0 +1,502 @@
+
+<!DOCTYPE html>
+<html lang="pt-br">
+    
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="generator" content="ODrones">
+    <title>Vulnerabilidades em drones da Parrot - ODrones</title>
+    <meta name="author" content="Lucas Buzzo">
+    
+    
+        <link rel="icon" href="https://odrones.com.br/../assets/images/icon.png">
+    
+    
+        <link rel="alternate" type="application/atom+xml" title="RSS" href="../atom.xml">
+    
+    <meta name="description" content="Pesquisadores apresentam na Def Con, uma das maiores conferências hackers do mundo, vulnerabilidades em drones da Parrot">
+<meta property="og:type" content="blog">
+<meta property="og:title" content="Vulnerabilidades em drones da Parrot">
+<meta property="og:url" content="https://odrones.com.br/vulnerabilidades-parrot/index.html">
+<meta property="og:site_name" content="ODrones">
+<meta property="og:description" content="Pesquisadores apresentam na Def Con, uma das maiores conferências hackers do mundo, vulnerabilidades em drones da Parrot">
+<meta property="og:image" content="https://odrones.com.br/images/Vulnerabilidades-Parrot.jpg">
+<meta property="og:updated_time" content="2017-02-28T15:01:57.706Z">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Vulnerabilidades em drones da Parrot">
+<meta name="twitter:description" content="Pesquisadores apresentam na Def Con, uma das maiores conferências hackers do mundo, vulnerabilidades em drones da Parrot">
+<meta name="twitter:image" content="https://odrones.com.br/images/Vulnerabilidades-Parrot.jpg">
+<meta property="fb:app_id" content="361589097364046">
+    
+        <link rel="publisher" href="https://plus.google.com/+OdronesBr"/>
+    
+    
+        
+            <meta property="fb:admins" content="100002679963951" />
+        
+    
+    
+    
+        <meta property="og:image" content="https://odrones.com.br/images/Vulnerabilidades-Parrot.jpg"/>
+        <meta class="swiftype" name="image" data-type="enum" content="https://odrones.com.br/images/Vulnerabilidades-Parrot.jpg" />
+    
+    
+    
+    <!--STYLES-->
+    <link rel="stylesheet" href="../assets/css/style.css">
+    <!--STYLES END-->
+    
+    <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-78413463-1']);
+        _gaq.push(['_trackPageview']);
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+
+
+    <script src="https://cdn.ampproject.org/v0.js"></script>
+
+    
+      <link rel="amphtml" href="https://odrones.com.br/vulnerabilidades-parrot/amp/index.html">
+      <link rel="canonical" href="https://odrones.com.br/vulnerabilidades-parrot/"/>
+
+      
+        
+          <script async custom-element="amp-youtube" src="https://cdn.ampproject.org/v0/amp-youtube-0.1.js"></script>
+        
+      
+    
+
+</head>
+
+    <body>
+        <div id="blog">
+            <!-- Define author's picture -->
+
+
+<header id="header" data-behavior="5">
+    <i id="btn-open-sidebar" class="fa fa-lg fa-bars"></i>
+    <div class="header-title">
+        <a class="header-title-link" href="../ ">
+          <img src="https://odrones.com.br/images/odrones.png" style="width: 45px; vertical-align:middle" ></img>  <span style="vertical-align:middle">ODrones</span>
+        </a>
+    </div>
+    
+        
+            <a  class="header-right-icon "
+                href="https://www.facebook.com/odrones" target="_blank">
+        
+        
+            <i class="fa fa-lg fa-facebook-square"></i>
+        
+        </a>
+    
+</header>
+
+            <!-- Define author's picture -->
+
+
+<nav id="sidebar" data-behavior="5">
+    <div class="sidebar-container">
+            <a href="/">
+              <div class="sidebar-profile">
+                <img class="sidebar-profile-picture"  src="/images/odrones.png" alt="Foto do autor"/>
+                <h4 class="sidebar-profile-name">ODrones</h4>
+              </div>
+            </a>
+        
+            <ul class="sidebar-buttons">
+            
+                <li class="sidebar-button">
+                    
+                        <a  class="sidebar-button-link "
+                             href="../ "
+                            
+                        >
+                    
+                        <i class="sidebar-button-icon fa fa-lg fa-home"></i>
+                        <span class="sidebar-button-desc">Início</span>
+                    </a>
+            </li>
+            
+                <li class="sidebar-button">
+                    
+                        <a  class="sidebar-button-link "
+                             href="../categories/Artigos/"
+                            
+                        >
+                    
+                        <i class="sidebar-button-icon fa fa-lg fa-book"></i>
+                        <span class="sidebar-button-desc">Artigos</span>
+                    </a>
+            </li>
+            
+                <li class="sidebar-button">
+                    
+                        <a  class="sidebar-button-link "
+                             href="../categories/Noticias/"
+                            
+                        >
+                    
+                        <i class="sidebar-button-icon fa fa-lg fa-newspaper-o"></i>
+                        <span class="sidebar-button-desc">Notícias</span>
+                    </a>
+            </li>
+            
+                <li class="sidebar-button">
+                    
+                        <a  class="sidebar-button-link "
+                             href="../categories/Entrevistas/"
+                            
+                        >
+                    
+                        <i class="sidebar-button-icon fa fa-lg fa-comments-o"></i>
+                        <span class="sidebar-button-desc">Entrevistas</span>
+                    </a>
+            </li>
+            
+        </ul>
+        
+            <ul class="sidebar-buttons">
+            
+                <li class="sidebar-button">
+                    
+                        <a  class="sidebar-button-link " href="https://www.facebook.com/odrones" target="_blank">
+                    
+                        <i class="sidebar-button-icon fa fa-lg fa-facebook"></i>
+                        <span class="sidebar-button-desc">Facebook</span>
+                    </a>
+            </li>
+            
+        </ul>
+        
+    </div>
+</nav>
+
+            
+            <div id="main" data-behavior="5"
+                 class="
+                        hasCoverMetaIn
+                        ">
+                
+<article class="post" itemscope itemType="http://schema.org/BlogPosting">
+   <link itemprop="mainEntityOfPage" href="https://odrones.com.br/vulnerabilidades-parrot/">
+
+    <span style="display:none" itemprop="author" itemscope itemtype="http://schema.org/Person">
+     <meta itemprop="name" content="Lucas Buzzo">
+     <meta itemprop="description" content="Sempre se interessou pelo voo e a liberdade que ele transmite. Graduando em Ciência da Computação. Acredita que o Brasil tem um grande potencial e, por esta razão, fundou ODrones, para difundir a tecnologia que já é febre no exterior.">
+     <meta itemprop="image" content="https://odrones.com.br/images/lucas-buzzo.jpeg">
+    </span>
+
+    <span style="display:none" itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+     <meta itemprop="name" content="ODrones">
+     <span style="display:none" itemprop="logo" itemscope itemtype="http://schema.org/ImageObject">
+       <img style="display:none;" itemprop="url image" alt="ODrones" src="https://odrones.com.br/images/odrones.png">
+     </span>
+    </span>
+
+
+
+
+    
+    
+        <div class="post-header main-content-wrap text-left">
+    
+        <h1 class="post-title" itemprop="headline">
+            Vulnerabilidades em drones da Parrot
+        </h1>
+    
+    <div class="post-meta">
+    <time itemprop="datePublished" datetime="2015-08-31T02:36:33-03:00">
+    <time itemprop="dateModified" datetime="2017-02-28T12:01:57-03:00">
+	
+		    31/08/2015
+    	
+    </time>
+    
+        <span>em </span>
+        
+    <a class="category-link" href="../categories/Artigos/">Artigos</a>
+
+
+
+        
+          <div class="breadcrumb" itemscope itemtype="http://schema.org/BreadcrumbList">
+            <span xmlns:v="http://rdf.data-vocabulary.org/#">
+              <span typeof="v:Breadcrumb">
+                <a href="https://odrones.com.br/" rel="v:url" property="v:title">
+                  Início
+                </a>
+                »
+                <span rel="v:child" typeof="v:Breadcrumb">
+                  <a href="https://odrones.com.br/categories/Artigos/" rel="v:url" property="v:title">
+                    Artigos
+                  </a>
+                  »
+                  <strong class="breadcrumb_last">
+                    Vulnerabilidades em drones da Parrot
+                  </strong>
+                </span>
+              </span>
+            </span>
+          </div>
+        
+    
+</div>
+
+
+  <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+  <ins class="adsbygoogle"
+       style="display:block"
+       data-ad-client="ca-pub-8608728242955074"
+       data-ad-slot="9880574948"
+       data-ad-format="auto"></ins>
+  <script>
+  (adsbygoogle = window.adsbygoogle || []).push({});
+  </script>
+
+
+</div>
+    
+    <div class="post-content markdown" itemprop="articleBody">
+        <div class="main-content-wrap">
+            <!-- excerpt --></p>
+<h1 id="table-of-contents">Tabela de Conteúdos</h1><ol class="toc"><li class="toc-item toc-level-2"><a class="toc-link" href="#Vulnerabilidades-no-AR-Drone"><span class="toc-text">Vulnerabilidades no AR.Drone</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#Vulnerabilidades-no-Bebop"><span class="toc-text">Vulnerabilidades no Bebop</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#Final-da-historia"><span class="toc-text">Final da história?</span></a></li></ol>
+<p>Na última edição da <a href="https://www.defcon.org/" target="_blank" rel="external">Def Con</a>, uma das maiores convenções anuais que abordam assuntos hackers, foram apresentadas <strong>vulnerabilidades</strong> nos <strong>drones</strong> da <strong>Parrot.</strong> Houveram duas apresentações de especialistas em segurança da informação, onde foram apresentadas algumas, e sim não foi apenas uma, vulnerabilidades em alguns modelos da Parrot: o <strong><em>AR.Drone</em></strong> e o <em><strong>Bebop</strong>.</em><br></p><p></p>
+<p>Como o texto abordará um assunto na área de segurança da informação, sinto-me no dever de aproveitar a brecha para difundir a diferença que há entre hackers e crackers. Tomando apenas o universo da tecnologia da informação como modelo, para não se tornar uma discussão abstrata sobre a real definição do termo “hacker” temos que: o hacker dedica, e usa, seu conhecimento para encontrar vulnerabilidades que afetem sistemas, podendo causar os mais diversos tipos de prejuízos, e toma as medidas que cabe a ele no trabalho, ou projeto, no qual está envolvido; enquanto o cracker utiliza seus conhecimentos para encontrar vulnerabilidades em sistemas e, de alguma forma, ganhar em cima da(s) falha(s) encontradas.</p>
+<div class="figure fig-100 center" style="width:;"><img class="fig-img" src="/images/Vulnerabilidades-Parrot.jpg" alt="Vulnerabilidades em drones da Parrot"><span class="caption">Vulnerabilidades em drones da Parrot</span></div>
+<h2 id="Vulnerabilidades-no-AR-Drone"><a href="#Vulnerabilidades-no-AR-Drone" class="headerlink" title="Vulnerabilidades no AR.Drone"></a>Vulnerabilidades no AR.Drone</h2><p>Em uma dessas apresentações, ocorrida no dia 8 de agosto, <em>Ryan Satterfield</em>, consultor de segurança da informação na empresa <em><a href="http://planetzuda.com/" target="_blank" rel="external">Planet Zuda</a></em>, demonstrou uma vulnerabilidade referente à conexão com o drone, e explorando esta falha conseguiu se conectar a um <em><a href="http://www.parrot.com/usa/products/ardrone-2/" target="_blank" rel="external">Parrot ArDrone</a></em>, um dos principais modelos da empresa, onde estava <strong>aberta</strong> a <strong>porta</strong> referente ao <em><a href="https://pt.wikipedia.org/wiki/Telnet" target="_blank" rel="external">telnet</a></em>, protocolo de rede com o objetivo de permitir uma comunicação interativa baseada em texto entre dois nós da rede, por meio de um terminal virtual. Após isso <em> Ryan Satterfield</em> conseguiu <strong>acesso</strong> à <strong>raiz</strong> do dispositivo o que <strong>permitiu</strong> que ele derrubasse o drone com apenas uma tecla.</p>
+<iframe src="https://www.youtube.com/embed/gMKNexI5dNc" width="854" height="480" frameborder="0" allowfullscreen></iframe>
+<p>A porta <em>telnet</em> aberta não foi uma descoberta nova, apenas a forma como ela foi explorada pode-se caracterizar como inovadora, pois o tal recurso já era <strong>amplamente difundido</strong> em fóruns de drones, inclusive no fórum da <em>Parrot</em>. Vários proprietários vêm utilizando a porta <em>telnet</em> para melhorar o desempenho, adicionar recursos, e até mudar o padrão de segurança do veículo aéreo não tripulado para o WPA2 (no lugar do acesso aberto que é o padrão de fábrica).</p>
+<h2 id="Vulnerabilidades-no-Bebop"><a href="#Vulnerabilidades-no-Bebop" class="headerlink" title="Vulnerabilidades no Bebop"></a>Vulnerabilidades no Bebop</h2><p>No dia seguinte, 9 de agosto, houve outra apresentação na Def Con relacionado aos veículos aéreos não tripulados. Desta vez foi o pesquisador <em>Michael Robinson</em>, analista de segurança e professor adjunto da <a href="http://www.stevenson.edu/" target="_blank" rel="external">Universidade de Stevenson</a>, em <em>Maryland</em>, e da <a href="https://www2.gmu.edu/" target="_blank" rel="external">Universidade George Mason</a>, na Virgínia do Norte, que mergulhou fundo, e desta vez ainda mais fundo, na descoberta e exploração de vulnerabilidades dos drones. O modelo que ele utilizou, também da empresa <em>Parrot,</em> foi o <em><a href="http://www.parrot.com/products/bebop-drone/" target="_blank" rel="external">Bebop</a></em>. Após suas pesquisas sobre possíveis vulnerabilidades com o drone, <em>Michael Robinson</em>, percebeu que por meio de um ataque chamado “<strong><em><a href="http://www.aircrack-ng.org/doku.php?id=deauthentication" target="_blank" rel="external">de-auth</a></em></strong>” ao dispositivo controle conectado ao veículo aéreo não tripulado, e assim <strong>desconectar</strong> o <strong>dispositivo</strong> que está <strong>controlando</strong> o drone. Fica fácil imaginar como termina a exploração desta vulnerabilidade: quando o dispositivo que estava controlando o drone é desconectado, qualquer outro dispositivo com o aplicativo móvel da <em>Parrot</em> pode se parear com o veículo em pleno voo e <strong>tomar posse</strong> do drone. E quando o “verdadeiro” proprietário tentar reconectar o dispostivo já estará ocupado e sendo operado por outro controle, sendo que este novo dono voaria como bem entendesse. O pesquisador advertiu no decorrer da apresentação, àqueles que planejavam assumir o controle de outros drones, que peritos forenses são capazes de recuperar algumas informações e até chegar ao hacker que invadiu, e assumiu, o drone.</p>
+<p>Outra descoberta interessante feita pelo <em>Michael Robindon</em> é que o <em>Bepop</em> usa um servidor <strong><a href="https://pt.wikipedia.org/wiki/File_Transfer_Protocol" target="_blank" rel="external">FTP</a></strong> aberto e <strong>público</strong> para transferir as imagens que captura, tanto fotos quanto vídeos, de volta ao usuário. Em outras palavras, <strong>qualquer um</strong> que consiga se acesso à rede em que o drone se encontra, mesmo que não esteja controlando o veículo aéreo não tripulado, pode <strong>acessar remotamente,</strong> editar e deletar <strong>arquivos</strong> de mídia no drone da <em>Parrot</em>.</p>
+<p>E ele ainda completou dizendo do risco que há em alguém <strong>modificar</strong> o sinal <strong>GPS</strong> recebido pelo <em>Bebop</em>, fazendo com que a sua função de <strong>“retornar</strong> <strong>à casa”</strong> leve ele para outra pessoa. Essa função é muito utilizada, além de poupar várias dores de cabeças aos proprietários de drones, basicamente quando o dono aperta o botão, solicitando que o drone volte ao seu ponto de partida, ou quando ele perde o sinal do controle, o drone guia-se pelo GPS até voltar ao local do qual decolou.</p>
+<h2 id="Final-da-historia"><a href="#Final-da-historia" class="headerlink" title="Final da história?"></a>Final da história?</h2><p>Imagine, agora, se alguém resolve efetuar o ataque com algumas dessas falhas em conjunto: primeiramente ela percebe o drone voando por perto, faz algumas pequenas pesquisas e enumeração sobre ele e os serviços que estão sendo executados, efetua um ataque de desautentificação no controle, e modifica o GPS. Quando o “verdadeiro” proprietário do drone ver que não está mais conseguindo controlar o veículo, e perceber que ele está utilizando o GPS para ir para outra casa, sem muito esforço podemos imaginar a decepção dele, pelo prejuízo financeiro e a frustração de ver algo seu sair, literalmente, voando para longe.</p>
+<p>Ambos, <em>Satterfield</em> e <em>Robinson</em>, disseram que contactaram a <em>Parrot</em> a <strong>informando</strong> sobre as vulnerabilidades, e a <strong>empresa</strong> disse que <strong>estava ciente</strong> delas. Porém não ficou claro se a companhia pretende procurar correções às vulnerabilidades apresentadas o não.</p>
+            
+
+
+            <br />
+
+            <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+            <!-- ODrones baixo -->
+            <ins class="adsbygoogle"
+                 style="display:block"
+                 data-ad-client="ca-pub-8608728242955074"
+                 data-ad-slot="8264240945"
+                 data-ad-format="auto"></ins>
+            <script>
+            (adsbygoogle = window.adsbygoogle || []).push({});
+            </script>
+
+        </div>
+    </div>
+
+    <div id="post-footer" class="post-footer main-content-wrap">
+        
+            <div class="post-footer-tags">
+                <span class="text-color-light text-small">Etiquetado como</span><br/>
+                
+    <a class="tag tag--primary tag--small t-link" href="../tags/hackers/">hackers</a> <a class="tag tag--primary tag--small t-link" href="../tags/parrot/">parrot</a> <a class="tag tag--primary tag--small t-link" href="../tags/vulnerabilidades/">vulnerabilidades</a>
+
+            </div>
+        
+        <div class="post-actions-wrap">
+    <nav>
+        <ul class="post-actions post-action-nav">
+            <li class="post-action">
+                
+                    <a class="post-action-btn btn btn--default tooltip--top" href="../measure-seu-enxame-aprovados/"  data-tooltip="Measure e seu enxame são aprovados pela FAA">
+                
+                    <i class="fa fa-angle-left"></i>
+                    <span class="hide-xs hide-sm text-small icon-ml">ANTERIOR</span>
+                </a>
+            </li>
+            <li class="post-action">
+                
+                    <a class="post-action-btn btn btn--default tooltip--top" href="../dymm-empreendedorismo-drones/" data-tooltip="Dymm – Empreendedorismo e Drones">
+                
+                    <span class="hide-xs hide-sm text-small icon-mr">PRÓXIMO</span>
+                    <i class="fa fa-angle-right"></i>
+                </a>
+            </li>
+        </ul>
+    </nav>
+    <ul class="post-actions post-action-share">
+        <li class="post-action hide-lg hide-md hide-sm">
+            <a class="post-action-btn btn btn--default btn-open-shareoptions"  href="#btn-open-shareoptions">
+                <i class="fa fa-share-alt"></i>
+            </a>
+        </li>
+        <li class="post-action hide-xs">
+            <a class="post-action-btn btn btn--default" target="new" href="https://plus.google.com/share?url=https://odrones.com.br/vulnerabilidades-parrot/">
+                <i class="fa fa-google-plus"></i>
+            </a>
+        </li>
+        <li class="post-action hide-xs">
+            <a class="post-action-btn btn btn--default" target="new" href="https://www.facebook.com/sharer/sharer.php?u=https://odrones.com.br/vulnerabilidades-parrot/">
+                <i class="fa fa-facebook-official"></i>
+            </a>
+        </li>
+        <li class="post-action hide-xs">
+            <a class="post-action-btn btn btn--default" target="new" href="https://twitter.com/intent/tweet?text=https://odrones.com.br/vulnerabilidades-parrot/">
+                <i class="fa fa-twitter"></i>
+            </a>
+        </li>
+        
+            <li class="post-action">
+                <a class="post-action-btn btn btn--default" href="#disqus_thread">
+                    <i class="fa fa-comment-o"></i>
+                </a>
+            </li>
+        
+        <li class="post-action">
+            
+                <a class="post-action-btn btn btn--default" href="#table-of-contents">
+            
+                <i class="fa fa-list"></i>
+            </a>
+        </li>
+    </ul>
+</div>
+
+
+        
+            
+                <div id="disqus_thread">
+    <noscript>Please enable JavaScript to view the <a href="//disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</div>
+            
+        
+    </div>
+</article>
+
+
+                <footer id="footer" class="main-content-wrap">
+    <span class="copyrights">
+        2017
+    </span>
+</footer>
+
+            </div>
+            
+                <div id="bottom-bar" class="post-bottom-bar" data-behavior="5">
+                    <div class="post-actions-wrap">
+    <nav>
+        <ul class="post-actions post-action-nav">
+            <li class="post-action">
+                
+                    <a class="post-action-btn btn btn--default tooltip--top" href="../measure-seu-enxame-aprovados/"  data-tooltip="Measure e seu enxame são aprovados pela FAA">
+                
+                    <i class="fa fa-angle-left"></i>
+                    <span class="hide-xs hide-sm text-small icon-ml">ANTERIOR</span>
+                </a>
+            </li>
+            <li class="post-action">
+                
+                    <a class="post-action-btn btn btn--default tooltip--top" href="../dymm-empreendedorismo-drones/" data-tooltip="Dymm – Empreendedorismo e Drones">
+                
+                    <span class="hide-xs hide-sm text-small icon-mr">PRÓXIMO</span>
+                    <i class="fa fa-angle-right"></i>
+                </a>
+            </li>
+        </ul>
+    </nav>
+    <ul class="post-actions post-action-share">
+        <li class="post-action hide-lg hide-md hide-sm">
+            <a class="post-action-btn btn btn--default btn-open-shareoptions"  href="#btn-open-shareoptions">
+                <i class="fa fa-share-alt"></i>
+            </a>
+        </li>
+        <li class="post-action hide-xs">
+            <a class="post-action-btn btn btn--default" target="new" href="https://plus.google.com/share?url=https://odrones.com.br/vulnerabilidades-parrot/">
+                <i class="fa fa-google-plus"></i>
+            </a>
+        </li>
+        <li class="post-action hide-xs">
+            <a class="post-action-btn btn btn--default" target="new" href="https://www.facebook.com/sharer/sharer.php?u=https://odrones.com.br/vulnerabilidades-parrot/">
+                <i class="fa fa-facebook-official"></i>
+            </a>
+        </li>
+        <li class="post-action hide-xs">
+            <a class="post-action-btn btn btn--default" target="new" href="https://twitter.com/intent/tweet?text=https://odrones.com.br/vulnerabilidades-parrot/">
+                <i class="fa fa-twitter"></i>
+            </a>
+        </li>
+        
+            <li class="post-action">
+                <a class="post-action-btn btn btn--default" href="#disqus_thread">
+                    <i class="fa fa-comment-o"></i>
+                </a>
+            </li>
+        
+        <li class="post-action">
+            
+                <a class="post-action-btn btn btn--default" href="#table-of-contents">
+            
+                <i class="fa fa-list"></i>
+            </a>
+        </li>
+    </ul>
+</div>
+
+
+                </div>
+                <div id="share-options-bar" class="share-options-bar" data-behavior="5">
+    <ul class="share-options">
+        <li class="share-option">
+            <a class="share-option-btn" target="new" href="https://plus.google.com/share?url=https://odrones.com.br/vulnerabilidades-parrot/">
+                <i class="fa fa-google-plus"></i><span>Compartilhar no Google Plus</span>
+            </a>
+        </li>
+        <li class="share-option">
+            <a class="share-option-btn" target="new" href="https://www.facebook.com/sharer/sharer.php?u=https://odrones.com.br/vulnerabilidades-parrot/">
+                <i class="fa fa-facebook-official"></i><span>Compartilhar no Facebook</span>
+            </a>
+        </li>
+        <li class="share-option">
+            <a class="share-option-btn" target="new" href="https://twitter.com/intent/tweet?text=https://odrones.com.br/vulnerabilidades-parrot/">
+                <i class="fa fa-twitter"></i><span>Compartilhar no Twitter</span>
+            </a>
+        </li>
+    </ul>
+</div>
+<div id="share-options-mask" class="share-options-mask"></div>
+
+            
+        </div>
+        
+<div id="cover" style="background-image:url('../assets/images/cover.png');"></div>
+        <!--SCRIPTS-->
+<script src="../assets/js/script.js"></script>
+<!--SCRIPTS END-->
+
+    
+        <script>
+             var disqus_config = function () {
+                 this.page.url = 'https://odrones.com.br/vulnerabilidades-parrot/';
+                 
+                    this.page.identifier = 'vulnerabilidades-parrot/';
+                 
+             };
+            (function() {
+                var d = document, s = d.createElement('script');
+                var disqus_shortname = 'odrones';
+                s.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+
+                s.setAttribute('data-timestamp', +new Date());
+                (d.head || d.body).appendChild(s);
+            })();
+        </script>
+    
+
+
+
+
+    </body>
+</html>
