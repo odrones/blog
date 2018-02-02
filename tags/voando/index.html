@@ -21,6 +21,7 @@
 <meta property="og:url" content="https://odrones.com.br/tags/voando/index.html">
 <meta property="og:site_name" content="ODrones">
 <meta property="og:description" content="Abordando tudo sobre drones, ODrones é o portal de informações sobre para o Brasil.">
+<meta property="og:locale" content="pt-br">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="ODrones">
 <meta name="twitter:description" content="Abordando tudo sobre drones, ODrones é o portal de informações sobre para o Brasil.">
@@ -45,12 +46,14 @@
         var _gaq = _gaq || [];
         _gaq.push(['_setAccount', 'UA-78413463-1']);
         _gaq.push(['_trackPageview']);
+        setTimeout("_gaq.push(['_trackEvent', '10_seconds', 'read'])",10000);
         (function() {
             var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
             ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
             var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
         })();
     </script>
+
 
 
     
@@ -202,7 +205,7 @@
 
                 <footer id="footer" class="main-content-wrap">
     <span class="copyrights">
-        2017
+        2018
     </span>
 </footer>
 
