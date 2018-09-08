@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://odrones.com.br/sitemap.xml
+Sitemap: https://odrones.com.br/post-sitemap.xml
+Sitemap: https://odrones.com.br/category-sitemap.xml
+Sitemap: https://odrones.com.br/tag-sitemap.xml
