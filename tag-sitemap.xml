@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
+
     <url>
         <loc>https://odrones.com.br/tags/4may/</loc>
         <lastmod>2017-12-24T11:37:25.354Z</lastmod>
@@ -870,27 +871,6 @@
     </url>
 
     <url>
-        <loc>https://odrones.com.br/tags/Drone-Brazukas/</loc>
-        <lastmod>2017-12-24T11:37:25.859Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://odrones.com.br/tags/Luh-Gomes/</loc>
-        <lastmod>2017-12-24T11:37:25.859Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://odrones.com.br/tags/Mulheres/</loc>
-        <lastmod>2017-12-24T11:37:25.859Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://odrones.com.br/tags/mercado/</loc>
         <lastmod>2017-12-24T11:37:25.867Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -1031,13 +1011,6 @@
     </url>
 
     <url>
-        <loc>https://odrones.com.br/tags/selfie/</loc>
-        <lastmod>2017-12-24T11:37:25.939Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://odrones.com.br/tags/camera/</loc>
         <lastmod>2017-12-24T11:37:25.939Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -1046,6 +1019,13 @@
 
     <url>
         <loc>https://odrones.com.br/tags/samsung/</loc>
+        <lastmod>2017-12-24T11:37:25.939Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://odrones.com.br/tags/selfie/</loc>
         <lastmod>2017-12-24T11:37:25.939Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -1194,6 +1174,41 @@
     <url>
         <loc>https://odrones.com.br/tags/Minas-Gerais/</loc>
         <lastmod>2018-09-17T16:03:09.453Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://odrones.com.br/tags/Drone-Brazukas/</loc>
+        <lastmod>2018-10-21T14:17:25.889Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://odrones.com.br/tags/Luh-Gomes/</loc>
+        <lastmod>2018-10-21T14:17:25.889Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://odrones.com.br/tags/Mulheres/</loc>
+        <lastmod>2018-10-21T14:17:25.889Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://odrones.com.br/tags/Praias/</loc>
+        <lastmod>2018-10-21T15:21:32.062Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://odrones.com.br/tags/Portugal/</loc>
+        <lastmod>2018-10-21T15:21:32.062Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

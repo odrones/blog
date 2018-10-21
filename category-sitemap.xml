@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
     <url>
         <loc>https://odrones.com.br</loc>
         <changefreq>daily</changefreq>
         <priority>1</priority>
-    </url>
-
-    <url>
-        <loc>https://odrones.com.br/categories/Entrevistas/</loc>
-        <lastmod>2017-12-24T11:37:25.859Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
     </url>
 
     <url>
@@ -35,15 +29,22 @@
     </url>
 
     <url>
-        <loc>https://odrones.com.br/categories/Noticias/</loc>
-        <lastmod>2018-09-17T16:03:09.453Z</lastmod>
+        <loc>https://odrones.com.br/categories/Entrevistas/</loc>
+        <lastmod>2018-10-21T14:17:25.889Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://odrones.com.br/categories/Incentivated/</loc>
-        <lastmod>2018-10-20T13:24:11.088Z</lastmod>
+        <lastmod>2018-10-21T14:22:55.654Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://odrones.com.br/categories/Noticias/</loc>
+        <lastmod>2018-10-21T15:21:32.062Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

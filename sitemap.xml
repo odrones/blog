@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="sitemap.xsl"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
+
     <sitemap>
         <loc>https://odrones.com.br/post-sitemap.xml</loc>
-        <lastmod>2018-10-20T13:24:11.088Z</lastmod>
+        <lastmod>2018-10-21T15:21:32.062Z</lastmod>
     </sitemap>
 
     <sitemap>
@@ -13,7 +14,7 @@
 
     <sitemap>
         <loc>https://odrones.com.br/category-sitemap.xml</loc>
-        <lastmod>2017-12-24T11:37:25.859Z</lastmod>
+        <lastmod>2017-12-24T11:37:25.875Z</lastmod>
     </sitemap>
 
     <sitemap>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
     <url>
         <loc>https://odrones.com.br</loc>
         <changefreq>daily</changefreq>
@@ -7,8 +8,24 @@
     </url>
 
     <url>
+        <loc>https://odrones.com.br/drones-ajudando-limpar-praias/</loc>
+        <lastmod>2018-10-21T15:21:32.062Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://odrones.com.br/casino-online/</loc>
-        <lastmod>2018-10-20T13:24:11.088Z</lastmod>
+        <lastmod>2018-10-21T14:22:55.654Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://odrones.com.br/mulheres-e-drones/</loc>
+        <lastmod>2018-10-21T14:17:25.889Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -129,14 +146,6 @@
     <url>
         <loc>https://odrones.com.br/nova-ferramenta-de-trabalho/</loc>
         <lastmod>2017-12-24T11:37:25.867Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://odrones.com.br/mulheres-e-drones/</loc>
-        <lastmod>2017-12-24T11:37:25.859Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
