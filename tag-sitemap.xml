@@ -1011,6 +1011,13 @@
     </url>
 
     <url>
+        <loc>https://odrones.com.br/tags/selfie/</loc>
+        <lastmod>2017-12-24T11:37:25.939Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://odrones.com.br/tags/camera/</loc>
         <lastmod>2017-12-24T11:37:25.939Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -1019,13 +1026,6 @@
 
     <url>
         <loc>https://odrones.com.br/tags/samsung/</loc>
-        <lastmod>2017-12-24T11:37:25.939Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://odrones.com.br/tags/selfie/</loc>
         <lastmod>2017-12-24T11:37:25.939Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
