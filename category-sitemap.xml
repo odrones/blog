@@ -22,13 +22,6 @@
     </url>
 
     <url>
-        <loc>https://odrones.com.br/categories/Artigos/</loc>
-        <lastmod>2017-12-24T11:37:26.023Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://odrones.com.br/categories/Entrevistas/</loc>
         <lastmod>2018-10-21T14:17:25.889Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -38,6 +31,13 @@
     <url>
         <loc>https://odrones.com.br/categories/Noticias/</loc>
         <lastmod>2018-10-21T15:21:32.062Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://odrones.com.br/categories/Artigos/</loc>
+        <lastmod>2018-10-25T14:05:20.421Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
