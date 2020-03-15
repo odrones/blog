@@ -4,28 +4,28 @@
 
     <url>
         <loc>https://odrones.com.br/tags/Flona/</loc>
-        <lastmod>2020-03-15T00:43:01.941Z</lastmod>
+        <lastmod>2020-03-15T01:23:46.831Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://odrones.com.br/tags/Censipam/</loc>
-        <lastmod>2020-03-15T00:43:01.941Z</lastmod>
+        <lastmod>2020-03-15T01:23:46.831Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://odrones.com.br/tags/Desmatamento/</loc>
-        <lastmod>2020-03-15T00:43:01.941Z</lastmod>
+        <lastmod>2020-03-15T01:23:46.831Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://odrones.com.br/tags/ICMBio/</loc>
-        <lastmod>2020-03-15T00:43:01.941Z</lastmod>
+        <lastmod>2020-03-15T01:23:46.831Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -122,6 +122,27 @@
     </url>
 
     <url>
+        <loc>https://odrones.com.br/tags/mundoGEO/</loc>
+        <lastmod>2017-12-24T11:37:26.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://odrones.com.br/tags/geotecnologias/</loc>
+        <lastmod>2017-12-24T11:37:26.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://odrones.com.br/tags/feira/</loc>
+        <lastmod>2017-12-24T11:37:26.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://odrones.com.br/tags/Turquia/</loc>
         <lastmod>2017-12-24T11:37:26.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -144,27 +165,6 @@
 
     <url>
         <loc>https://odrones.com.br/tags/Grecia/</loc>
-        <lastmod>2017-12-24T11:37:26.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://odrones.com.br/tags/mundoGEO/</loc>
-        <lastmod>2017-12-24T11:37:26.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://odrones.com.br/tags/geotecnologias/</loc>
-        <lastmod>2017-12-24T11:37:26.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://odrones.com.br/tags/feira/</loc>
         <lastmod>2017-12-24T11:37:26.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -213,6 +213,76 @@
     </url>
 
     <url>
+        <loc>https://odrones.com.br/tags/ZMP/</loc>
+        <lastmod>2017-12-24T11:37:25.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://odrones.com.br/tags/Sony/</loc>
+        <lastmod>2017-12-24T11:37:25.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://odrones.com.br/tags/samsung/</loc>
+        <lastmod>2017-12-24T11:37:25.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://odrones.com.br/tags/camera/</loc>
+        <lastmod>2017-12-24T11:37:25.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://odrones.com.br/tags/Harrisen-Howes/</loc>
+        <lastmod>2017-12-24T11:37:25.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://odrones.com.br/tags/Russia/</loc>
+        <lastmod>2017-12-24T11:37:25.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://odrones.com.br/tags/Artico/</loc>
+        <lastmod>2017-12-24T11:37:25.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://odrones.com.br/tags/Radio-Mix/</loc>
+        <lastmod>2017-12-24T11:37:25.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://odrones.com.br/tags/GoPro/</loc>
+        <lastmod>2017-12-24T11:37:25.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://odrones.com.br/tags/FM/</loc>
+        <lastmod>2017-12-24T11:37:25.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://odrones.com.br/tags/uso/</loc>
         <lastmod>2017-12-24T11:37:25.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -241,49 +311,21 @@
     </url>
 
     <url>
-        <loc>https://odrones.com.br/tags/samsung/</loc>
+        <loc>https://odrones.com.br/tags/Ponte/</loc>
         <lastmod>2017-12-24T11:37:25.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://odrones.com.br/tags/camera/</loc>
+        <loc>https://odrones.com.br/tags/construcao/</loc>
         <lastmod>2017-12-24T11:37:25.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://odrones.com.br/tags/ZMP/</loc>
-        <lastmod>2017-12-24T11:37:25.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://odrones.com.br/tags/Sony/</loc>
-        <lastmod>2017-12-24T11:37:25.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://odrones.com.br/tags/Harrisen-Howes/</loc>
-        <lastmod>2017-12-24T11:37:25.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://odrones.com.br/tags/Russia/</loc>
-        <lastmod>2017-12-24T11:37:25.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://odrones.com.br/tags/Artico/</loc>
+        <loc>https://odrones.com.br/tags/civil/</loc>
         <lastmod>2017-12-24T11:37:25.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -318,48 +360,6 @@
     </url>
 
     <url>
-        <loc>https://odrones.com.br/tags/Ponte/</loc>
-        <lastmod>2017-12-24T11:37:25.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://odrones.com.br/tags/construcao/</loc>
-        <lastmod>2017-12-24T11:37:25.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://odrones.com.br/tags/civil/</loc>
-        <lastmod>2017-12-24T11:37:25.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://odrones.com.br/tags/Radio-Mix/</loc>
-        <lastmod>2017-12-24T11:37:25.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://odrones.com.br/tags/GoPro/</loc>
-        <lastmod>2017-12-24T11:37:25.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://odrones.com.br/tags/FM/</loc>
-        <lastmod>2017-12-24T11:37:25.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://odrones.com.br/tags/trabalho/</loc>
         <lastmod>2017-12-24T11:37:25.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -368,6 +368,41 @@
 
     <url>
         <loc>https://odrones.com.br/tags/mercado/</loc>
+        <lastmod>2017-12-24T11:37:25.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://odrones.com.br/tags/preparados/</loc>
+        <lastmod>2017-12-24T11:37:25.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://odrones.com.br/tags/Militares/</loc>
+        <lastmod>2017-12-24T11:37:25.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://odrones.com.br/tags/WalletDrone/</loc>
+        <lastmod>2017-12-24T11:37:25.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://odrones.com.br/tags/menor/</loc>
+        <lastmod>2017-12-24T11:37:25.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://odrones.com.br/tags/Indiegogo/</loc>
         <lastmod>2017-12-24T11:37:25.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -416,41 +451,6 @@
     </url>
 
     <url>
-        <loc>https://odrones.com.br/tags/WalletDrone/</loc>
-        <lastmod>2017-12-24T11:37:25.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://odrones.com.br/tags/menor/</loc>
-        <lastmod>2017-12-24T11:37:25.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://odrones.com.br/tags/Indiegogo/</loc>
-        <lastmod>2017-12-24T11:37:25.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://odrones.com.br/tags/preparados/</loc>
-        <lastmod>2017-12-24T11:37:25.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://odrones.com.br/tags/Militares/</loc>
-        <lastmod>2017-12-24T11:37:25.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://odrones.com.br/tags/selfie/</loc>
         <lastmod>2017-12-24T11:37:25.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -480,20 +480,6 @@
 
     <url>
         <loc>https://odrones.com.br/tags/esportes/</loc>
-        <lastmod>2017-12-24T11:37:25.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://odrones.com.br/tags/guia/</loc>
-        <lastmod>2017-12-24T11:37:25.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://odrones.com.br/tags/comprar/</loc>
         <lastmod>2017-12-24T11:37:25.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -556,6 +542,34 @@
     </url>
 
     <url>
+        <loc>https://odrones.com.br/tags/Sysveo/</loc>
+        <lastmod>2017-12-24T11:37:25.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://odrones.com.br/tags/Paraquedas/</loc>
+        <lastmod>2017-12-24T11:37:25.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://odrones.com.br/tags/Holografia/</loc>
+        <lastmod>2017-12-24T11:37:25.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://odrones.com.br/tags/3D/</loc>
+        <lastmod>2017-12-24T11:37:25.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://odrones.com.br/tags/buzz-bomb/</loc>
         <lastmod>2017-12-24T11:37:25.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -578,6 +592,20 @@
 
     <url>
         <loc>https://odrones.com.br/tags/historia/</loc>
+        <lastmod>2017-12-24T11:37:25.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://odrones.com.br/tags/guia/</loc>
+        <lastmod>2017-12-24T11:37:25.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://odrones.com.br/tags/comprar/</loc>
         <lastmod>2017-12-24T11:37:25.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -612,62 +640,6 @@
     </url>
 
     <url>
-        <loc>https://odrones.com.br/tags/Sysveo/</loc>
-        <lastmod>2017-12-24T11:37:25.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://odrones.com.br/tags/Paraquedas/</loc>
-        <lastmod>2017-12-24T11:37:25.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://odrones.com.br/tags/Holografia/</loc>
-        <lastmod>2017-12-24T11:37:25.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://odrones.com.br/tags/3D/</loc>
-        <lastmod>2017-12-24T11:37:25.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://odrones.com.br/tags/entrevista/</loc>
-        <lastmod>2017-12-24T11:37:25.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://odrones.com.br/tags/empreendedorismo/</loc>
-        <lastmod>2017-12-24T11:37:25.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://odrones.com.br/tags/Sao-Roque/</loc>
-        <lastmod>2017-12-24T11:37:25.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://odrones.com.br/tags/Festa-de-Agosto/</loc>
-        <lastmod>2017-12-24T11:37:25.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://odrones.com.br/tags/PodeSer/</loc>
         <lastmod>2017-12-24T11:37:25.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -696,7 +668,14 @@
     </url>
 
     <url>
-        <loc>https://odrones.com.br/tags/opinando/</loc>
+        <loc>https://odrones.com.br/tags/Sao-Roque/</loc>
+        <lastmod>2017-12-24T11:37:25.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://odrones.com.br/tags/Festa-de-Agosto/</loc>
         <lastmod>2017-12-24T11:37:25.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -731,6 +710,27 @@
     </url>
 
     <url>
+        <loc>https://odrones.com.br/tags/sucesso/</loc>
+        <lastmod>2017-12-24T11:37:25.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://odrones.com.br/tags/Entrevista/</loc>
+        <lastmod>2017-12-24T11:37:25.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://odrones.com.br/tags/opinando/</loc>
+        <lastmod>2017-12-24T11:37:25.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://odrones.com.br/tags/imagens/</loc>
         <lastmod>2017-12-24T11:37:25.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -752,14 +752,14 @@
     </url>
 
     <url>
-        <loc>https://odrones.com.br/tags/sucesso/</loc>
+        <loc>https://odrones.com.br/tags/entrevista/</loc>
         <lastmod>2017-12-24T11:37:25.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://odrones.com.br/tags/Entrevista/</loc>
+        <loc>https://odrones.com.br/tags/empreendedorismo/</loc>
         <lastmod>2017-12-24T11:37:25.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -927,6 +927,48 @@
     </url>
 
     <url>
+        <loc>https://odrones.com.br/tags/waterfly/</loc>
+        <lastmod>2017-12-24T11:37:25.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://odrones.com.br/tags/pousa/</loc>
+        <lastmod>2017-12-24T11:37:25.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://odrones.com.br/tags/agua/</loc>
+        <lastmod>2017-12-24T11:37:25.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://odrones.com.br/tags/planta/</loc>
+        <lastmod>2017-12-24T11:37:25.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://odrones.com.br/tags/bilhao/</loc>
+        <lastmod>2017-12-24T11:37:25.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://odrones.com.br/tags/arvores/</loc>
+        <lastmod>2017-12-24T11:37:25.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://odrones.com.br/tags/Regulamentacao/</loc>
         <lastmod>2017-12-24T11:37:25.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -983,62 +1025,6 @@
     </url>
 
     <url>
-        <loc>https://odrones.com.br/tags/waterfly/</loc>
-        <lastmod>2017-12-24T11:37:25.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://odrones.com.br/tags/pousa/</loc>
-        <lastmod>2017-12-24T11:37:25.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://odrones.com.br/tags/agua/</loc>
-        <lastmod>2017-12-24T11:37:25.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://odrones.com.br/tags/planta/</loc>
-        <lastmod>2017-12-24T11:37:25.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://odrones.com.br/tags/bilhao/</loc>
-        <lastmod>2017-12-24T11:37:25.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://odrones.com.br/tags/arvores/</loc>
-        <lastmod>2017-12-24T11:37:25.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://odrones.com.br/tags/voando/</loc>
-        <lastmod>2017-12-24T11:37:25.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://odrones.com.br/tags/europeu/</loc>
-        <lastmod>2017-12-24T11:37:25.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://odrones.com.br/tags/outros/</loc>
         <lastmod>2017-12-24T11:37:25.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -1060,41 +1046,6 @@
     </url>
 
     <url>
-        <loc>https://odrones.com.br/tags/utilizacao/</loc>
-        <lastmod>2017-12-24T11:37:25.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://odrones.com.br/tags/dicas/</loc>
-        <lastmod>2017-12-24T11:37:25.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://odrones.com.br/tags/NinaKov/</loc>
-        <lastmod>2017-12-24T11:37:25.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://odrones.com.br/tags/danca/</loc>
-        <lastmod>2017-12-24T11:37:25.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://odrones.com.br/tags/CollMot/</loc>
-        <lastmod>2017-12-24T11:37:25.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://odrones.com.br/tags/NASA/</loc>
         <lastmod>2017-12-24T11:37:25.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -1103,6 +1054,34 @@
 
     <url>
         <loc>https://odrones.com.br/tags/hibrido/</loc>
+        <lastmod>2017-12-24T11:37:25.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://odrones.com.br/tags/voando/</loc>
+        <lastmod>2017-12-24T11:37:25.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://odrones.com.br/tags/europeu/</loc>
+        <lastmod>2017-12-24T11:37:25.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://odrones.com.br/tags/utilizacao/</loc>
+        <lastmod>2017-12-24T11:37:25.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://odrones.com.br/tags/dicas/</loc>
         <lastmod>2017-12-24T11:37:25.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -1124,6 +1103,27 @@
 
     <url>
         <loc>https://odrones.com.br/tags/dengue/</loc>
+        <lastmod>2017-12-24T11:37:25.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://odrones.com.br/tags/NinaKov/</loc>
+        <lastmod>2017-12-24T11:37:25.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://odrones.com.br/tags/danca/</loc>
+        <lastmod>2017-12-24T11:37:25.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://odrones.com.br/tags/CollMot/</loc>
         <lastmod>2017-12-24T11:37:25.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -1158,34 +1158,6 @@
     </url>
 
     <url>
-        <loc>https://odrones.com.br/tags/Washington-DC/</loc>
-        <lastmod>2017-12-24T11:37:25.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://odrones.com.br/tags/NoDroneZone/</loc>
-        <lastmod>2017-12-24T11:37:25.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://odrones.com.br/tags/FAA/</loc>
-        <lastmod>2017-12-24T11:37:25.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://odrones.com.br/tags/area/</loc>
-        <lastmod>2017-12-24T11:37:25.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://odrones.com.br/tags/RJ/</loc>
         <lastmod>2017-12-24T11:37:25.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -1208,6 +1180,34 @@
 
     <url>
         <loc>https://odrones.com.br/tags/Arco/</loc>
+        <lastmod>2017-12-24T11:37:25.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://odrones.com.br/tags/Washington-DC/</loc>
+        <lastmod>2017-12-24T11:37:25.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://odrones.com.br/tags/NoDroneZone/</loc>
+        <lastmod>2017-12-24T11:37:25.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://odrones.com.br/tags/FAA/</loc>
+        <lastmod>2017-12-24T11:37:25.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://odrones.com.br/tags/area/</loc>
         <lastmod>2017-12-24T11:37:25.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
